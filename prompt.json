@@ -1,0 +1,54 @@
+[
+    {"task": "cofactor",
+    "task_name": "Predicting Protein Cofactor",
+    "task_description": "is to identify the specific cofactor required for a given protein's catalytic activity. A cofactor is a non-protein chemical compound or metallic ion that is essential for an enzyme's function. Based on the provided protein sequence, you will need to determine which of the multiple-choice options is the correct cofactor."
+    },
+    {"task": "transmembrane",
+    "task_name": "Transmembrane Region Prediction",
+    "task_description": "is to predict a region of the protein that spans across a cell membrane. These transmembrane domains are typically hydrophobic alpha-helices that anchor the protein within the lipid bilayer or form channels. Based on the provided amino acid sequence, you must select the option that correctly identifies the start and end positions of a segment that crosses the membrane."
+    },
+    {"task": "active_site",
+    "task_name": "Enzyme Active Site Prediction",
+    "task_description": "is to identify the key amino acid residues that form the active site of an enzyme. The active site is the specific region on the enzyme where a substrate binds and the chemical reaction is catalyzed. Based on the full protein sequence provided, you must select the option that correctly lists the amino acid residues (by their type and position) that constitute the enzyme's catalytic center."
+    },
+    {"task": "EC_number",
+    "task_name": "Enzyme Commission (EC) Number Prediction",
+    "task_description": "is to predict the complete 4-digit Enzyme Commission (EC) number for a given protein. The EC number is a numerical classification that categorizes enzymes based on the chemical reactions they catalyze. You should select the most accurate EC number from the provided options based on the protein's sequence."
+    },
+    {"task": "catalytic_activity",
+    "task_name": "Enzymatic Reaction Prediction",
+    "task_description": "is to identify the specific chemical reaction catalyzed by a given enzyme. This involves understanding the enzyme's function based on its amino acid sequence and then selecting the correct transformation of substrates into products from a list of possible reactions."
+    },
+    {"task": "motif_position",
+    "task_name": "Protein Motif Position Prediction",
+    "task_description": "is to identify the specific positions of a conserved motif within a protein sequence. A motif is a short, recurring pattern in protein sequences that is often associated with a specific function or structure. Based on the provided protein sequence, you will need to determine the start and end positions of the motif."
+    },
+    {"task": "motif",
+    "task_name": "Protein Motif Identification",
+    "task_description": "is to identify a key functional motif within a given protein sequence. A protein motif is a short, conserved sequence pattern that is associated with a specific function, such as an enzyme's active site, a binding site, or a post-translational modification site. You will be given four potential motifs, and you must determine which one is present in and relevant to the provided protein sequence."
+    },
+    {"task": "pathway",
+    "task_name": "Protein Pathway Prediction",
+    "task_description": "is to predict the primary metabolic or signaling pathway in which a given protein functions. Biological pathways are series of chemical reactions occurring within a cell that are essential for life. Based on the protein's amino acid sequence, you should identify the most relevant pathway from the given options."
+    },
+    {"task": "ph",
+    "task_name": "Protein Optimal pH Prediction",
+    "task_description": "is to predict the optimal pH for a protein's activity. The optimal pH is the specific pH at which an enzyme exhibits its maximum catalytic rate. This property is critically dependent on the ionization states of amino acid residues, especially those in the active site. Based on the provided protein sequence, which dictates these properties, you must predict the pH range in which the enzyme functions most effectively."
+    },
+    {"task": "temperature",
+    "task_name": "Protein Thermal Adaptation Prediction",
+    "task_description": "is to predict the thermal adaptation category of a protein. This relates to the optimal temperature range in which the protein is stable and functional (e.g., cold-adapted, moderate temperature-adapted, or heat-adapted). This property is encoded by subtle patterns in the amino acid sequence that affect the protein's structural stability, such as amino acid composition and the potential for internal bonds. Based on the provided sequence, you must classify the protein into its most likely thermal category."
+    },
+    {"task": "GO_molecular_function",
+    "task_name": "Gene Ontology (GO) Molecular Function Prediction",
+    "task_description": "is to predict the fundamental activity of a protein at the molecular level, as defined by the Gene Ontology (GO) 'Molecular Function' branch. This describes the elemental tasks a protein performs, such as catalysis, transport, or binding to specific molecules. Based on the protein's amino acid sequence, you are to select the option that best describes its primary molecular function."
+    },
+    {"task": "GO_cellular_component",
+    "task_name": "Gene Ontology (GO) Cellular Component Prediction",
+    "task_description": "is to predict the primary Cellular Component where a protein is located, according to the Gene Ontology (GO) framework. A protein's location within a cell (e.g., Nucleus, Mitochondria, Cytoplasm) is critical for its function and is often determined by specific targeting signals in its amino acid sequence. Based on the provided sequence, you must identify the most likely compartment where the protein resides."
+    },
+    {"task": "GO_biological_process",
+    "task_name": "Gene Ontology (GO) Biological Process Prediction",
+    "task_description": "is to predict the primary biological process a given protein participates in, as defined by the Gene Ontology (GO) 'Biological Process' branch. A biological process is a series of molecular events that accomplishes a larger biological program, such as cell division or signal transduction. Based on the provided protein sequence, you must select the option that best describes the overall biological objective to which the protein contributes."
+    }
+]

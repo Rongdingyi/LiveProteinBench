@@ -1,0 +1,203 @@
+Entry,Cofactor
+A0A059WI14,"COFACTOR: Name=Fe(2+); Xref=ChEBI:CHEBI:29033; Evidence={ECO:0000269|PubMed:24821808, ECO:0000269|PubMed:28936873};"
+A0A0A8X0K1,COFACTOR: Name=[4Fe-4S] cluster; Xref=ChEBI:CHEBI:49883; Evidence={ECO:0000250|UniProtKB:Q7WTU0}; Note=Binds 1 [4Fe-4S] cluster. {ECO:0000250|UniProtKB:Q7WTU0}; COFACTOR: Name=Mo-bis(molybdopterin guanine dinucleotide); Xref=ChEBI:CHEBI:60539; Evidence={ECO:0000250|UniProtKB:Q7WTU0}; Note=Binds 1 molybdenum-bis(molybdopterin guanine dinucleotide) (Mo-bis-MGD) cofactor per subunit. {ECO:0000250|UniProtKB:Q7WTU0};
+A0A0A8X5N4,COFACTOR: Name=[4Fe-4S] cluster; Xref=ChEBI:CHEBI:49883; Evidence={ECO:0000250|UniProtKB:Q7WTT9}; Note=Binds 4 [4Fe-4S] cluster. {ECO:0000250|UniProtKB:Q7WTT9};
+A0A0F7TWW9,COFACTOR: Name=[2Fe-2S] cluster; Xref=ChEBI:CHEBI:190135; Evidence={ECO:0000250|UniProtKB:Q0CPG9}; Note=Binds 1 [2Fe-2S] cluster per subunit. {ECO:0000250|UniProtKB:P39522}; COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250|UniProtKB:Q0CPG9};
+A0A0F7TWX5,COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250|UniProtKB:P13513};
+A0A0F7TZ11,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:P04798};
+A0A0F7U0K0,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:P04798};
+A0A0L1JEW4,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:Q16850};
+A0A0L1JEZ9,COFACTOR: Name=FAD; Xref=ChEBI:CHEBI:57692; Evidence={ECO:0000305};
+A0A0L1JF11,COFACTOR: Name=pantetheine 4'-phosphate; Xref=ChEBI:CHEBI:47942; Evidence={ECO:0000255|PROSITE-ProRule:PRU00258};
+A0A0L1JG62,COFACTOR: Name=pantetheine 4'-phosphate; Xref=ChEBI:CHEBI:47942; Evidence={ECO:0000255|PROSITE-ProRule:PRU00258};
+A0A0U3S9Q3,COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250|UniProtKB:P06525}; Note=Binds 2 Zn(2+) ions per subunit. {ECO:0000250|UniProtKB:P06525};
+A0A0U4AHM6,COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250|UniProtKB:P06525}; Note=Binds 2 Zn(2+) ions per subunit. {ECO:0000250|UniProtKB:P06525};
+A0A0U4BHM2,COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250|UniProtKB:P06525}; Note=Binds 2 Zn(2+) ions per subunit. {ECO:0000250|UniProtKB:P06525};
+A0A166ACJ5,COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000269|PubMed:39270823}; Note=Binds 1 Zn(2+) ion per subunit. {ECO:0000269|PubMed:39270823};
+A0A172QE52,COFACTOR: Name=pantetheine 4'-phosphate; Xref=ChEBI:CHEBI:47942; Evidence={ECO:0000255|PROSITE-ProRule:PRU00258};
+A0A194WDG1,COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000255|RuleBase:RU361165};
+A0A1B5KW97,COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250|UniProtKB:Q16539};
+A0A1E3M8P2,COFACTOR: Name=FAD; Xref=ChEBI:CHEBI:57692; Evidence={ECO:0000269|PubMed:34308084};
+A0A1H1YBL2,COFACTOR: Name=pyridoxal 5'-phosphate; Xref=ChEBI:CHEBI:597326; Evidence={ECO:0000250|UniProtKB:A0A2H1K3G9};
+A0A1I1NU16,COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250|UniProtKB:Q8U1Y4};
+A0A218NGS0,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:P04798};
+A0A261GRE4,COFACTOR: Name=Cu(2+); Xref=ChEBI:CHEBI:29036; Evidence={ECO:0000269|PubMed:39382070}; Note=Binds 2 copper ions per subunit. {ECO:0000250|UniProtKB:Q9ZP19};
+A0A261GVB1,COFACTOR: Name=Cu(2+); Xref=ChEBI:CHEBI:29036; Evidence={ECO:0000269|PubMed:39382070}; Note=Binds 2 copper ions per subunit. {ECO:0000250|UniProtKB:Q9ZP19};
+A0A2H1K3G9,"COFACTOR: Name=pyridoxal 5'-phosphate; Xref=ChEBI:CHEBI:597326; Evidence={ECO:0000269|PubMed:30940696, ECO:0000269|PubMed:9726878};"
+A0A2K3D1C8,COFACTOR: Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000250|UniProtKB:Q93YW7};
+A0A2Z5U3C2,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:P04798};
+A0A2Z5U507,COFACTOR: Name=Fe cation; Xref=ChEBI:CHEBI:24875; Evidence={ECO:0000250|UniProtKB:Q5AR53};
+A0A2Z5U6I9,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:P04798};
+A0A2Z5UHX0,COFACTOR: Name=pantetheine 4'-phosphate; Xref=ChEBI:CHEBI:47942; Evidence={ECO:0000255|PROSITE-ProRule:PRU00258};
+A0A385XI11,COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250|UniProtKB:Q7SI09};
+A0A455ZIK8,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:P04798};
+A0A455ZJD4,COFACTOR: Name=pantetheine 4'-phosphate; Xref=ChEBI:CHEBI:47942; Evidence={ECO:0000255|PROSITE-ProRule:PRU00258};
+A0A455ZJM4,COFACTOR: Name=Ca(2+); Xref=ChEBI:CHEBI:29108; Evidence={ECO:0000250|UniProtKB:P15289}; Note=Binds 1 Ca(2+) ion per subunit. {ECO:0000250|UniProtKB:P15289};
+A0A455ZKR7,COFACTOR: Name=Fe(2+); Xref=ChEBI:CHEBI:29033; Evidence={ECO:0000255|PROSITE-ProRule:PRU00805}; Note=Binds 1 Fe(2+) ion per subunit. {ECO:0000255|PROSITE-ProRule:PRU00805};
+A0A455ZM03,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:P04798};
+A0A455ZMR3,COFACTOR: Name=Fe(2+); Xref=ChEBI:CHEBI:29033; Evidence={ECO:0000255|PROSITE-ProRule:PRU00805}; Note=Binds 1 Fe(2+) ion per subunit. {ECO:0000255|PROSITE-ProRule:PRU00805};
+A0A498JQK2,COFACTOR: Name=FMN; Xref=ChEBI:CHEBI:58210; Evidence={ECO:0000250|UniProtKB:Q9SWE5}; Note=Binds 1 FMN per subunit. {ECO:0000250|UniProtKB:Q9SWE5};
+A0A559KX76,COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000269|PubMed:39270823}; Note=Binds 2 Zn(2+) ions per subunit. {ECO:0000305|PubMed:39270823};
+A0A5B9GBF0,COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250|UniProtKB:Q16539};
+A0A6A6H402,COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000269|PubMed:39310987};
+A0A6B9HEI0,COFACTOR: Name=[4Fe-4S] cluster; Xref=ChEBI:CHEBI:49883; Evidence={ECO:0000269|PubMed:35110734}; Note=Binds 1 [4Fe-4S] cluster. The cluster is coordinated with 3 cysteines and an exchangeable S-adenosyl-L-methionine. {ECO:0000269|PubMed:35110734}; COFACTOR: Name=cob(II)alamin; Xref=ChEBI:CHEBI:16304; Evidence={ECO:0000269|PubMed:35110734};
+A0A7G5KET3,COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250|UniProtKB:P00558};
+A0A7T8F1I4,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:P04798};
+A0A7T8F1J7,COFACTOR: Name=Fe cation; Xref=ChEBI:CHEBI:24875; Evidence={ECO:0000250|UniProtKB:Q5AR34};
+A0A7T8F1L2,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:P04798};
+A0A7T8F1L4,COFACTOR: Name=pantetheine 4'-phosphate; Xref=ChEBI:CHEBI:47942; Evidence={ECO:0000255|PROSITE-ProRule:PRU00258};
+A0A7T8F1M9,COFACTOR: Name=FMN; Xref=ChEBI:CHEBI:58210; Evidence={ECO:0000250|UniProtKB:Q4WZ70};
+A0A7T8J1U7,COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250|UniProtKB:P00497}; Note=Binds 1 Mg(2+) ion per subunit. {ECO:0000250|UniProtKB:P00497}; COFACTOR: Name=[4Fe-4S] cluster; Xref=ChEBI:CHEBI:49883; Evidence={ECO:0000250|UniProtKB:P00497}; Note=Binds 1 [4Fe-4S] cluster per subunit. {ECO:0000250|UniProtKB:P00497};
+A0A7U2MMF3,COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250|UniProtKB:P11766}; Note=Binds 2 Zn(2+) ions per subunit. {ECO:0000250|UniProtKB:P11766};
+A0A7U2MSD6,"COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000269|PubMed:37754565}; Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000269|PubMed:37754565}; Note=Binds 2 magnesium or manganese ions per subunit (By similarity). Has highest activity with magnesium, but also has activity with calcium (PubMed:37754565). {ECO:0000255|PROSITE-ProRule:PRU01082, ECO:0000269|PubMed:37754565};"
+A0A8I6GM68,COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250|UniProtKB:Q9UBN7}; Note=Binds 3 Zn(2+) ions per subunit. {ECO:0000250|UniProtKB:Q9UBN7};
+A0A8J1LLF7,COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250|UniProtKB:Q9UPY3}; Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000250|UniProtKB:Q9UPY3}; Note=Binds 2 magnesium or manganese ions per subunit. {ECO:0000250|UniProtKB:Q9UPY3};
+A0A974H8H3,COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250|UniProtKB:Q9UPY3}; Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000250|UniProtKB:Q9UPY3}; Note=Binds 2 magnesium or manganese ions per subunit. {ECO:0000250|UniProtKB:Q9UPY3};
+A0A9E7LUJ4,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:P04798};
+A0A9E7LUR3,COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250|UniProtKB:P06525}; Note=Binds 2 Zn(2+) ions per subunit. {ECO:0000250|UniProtKB:P06525};
+A0A9E7S4M3,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:P04798};
+A0A9E7S4M4,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:P04798};
+A0A9P4XUZ4,COFACTOR: Name=Fe(2+); Xref=ChEBI:CHEBI:29033; Evidence={ECO:0000255|PROSITE-ProRule:PRU00805}; Note=Binds 1 Fe(2+) ion per subunit. {ECO:0000255|PROSITE-ProRule:PRU00805};
+A0AA51VJB7,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:Q94IP1};
+A0AA51Z3J4,COFACTOR: Name=pyridoxal 5'-phosphate; Xref=ChEBI:CHEBI:597326; Evidence={ECO:0000250|UniProtKB:P20711};
+A0AAN4PB13,COFACTOR: Name=pantetheine 4'-phosphate; Xref=ChEBI:CHEBI:47942; Evidence={ECO:0000255|PROSITE-ProRule:PRU00258};
+A0AAN4PBA1,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:P04798};
+A0AAW1J8D7,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:Q94IP1};
+A0AAW1JA93,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:Q94IP1};
+A0AAW1NEA3,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:Q94IP1};
+A0QT90,"COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000255|PROSITE-ProRule:PRU00391, ECO:0000269|PubMed:39012146}; Note=Binds 1 zinc ion per subunit. {ECO:0000255|PROSITE-ProRule:PRU00391, ECO:0000269|PubMed:39012146};"
+A0QT91,COFACTOR: Name=Ca(2+); Xref=ChEBI:CHEBI:29108; Evidence={ECO:0000269|PubMed:23549043}; Note=ssDNA-dependent ATPase is most efficient with Ca(2+); Mn(2+) and Mn(2+) are 60% less effective. {ECO:0000269|PubMed:23549043};
+A1ZB29,COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250|UniProtKB:P23919};
+A2QQU4,COFACTOR: Name=Fe(2+); Xref=ChEBI:CHEBI:29033; Evidence={ECO:0000255|PROSITE-ProRule:PRU00805}; Note=Binds 1 Fe(2+) ion per subunit. {ECO:0000255|PROSITE-ProRule:PRU00805};
+A2QQU9,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:P04798};
+A2QQV0,COFACTOR: Name=pantetheine 4'-phosphate; Xref=ChEBI:CHEBI:47942; Evidence={ECO:0000255|PROSITE-ProRule:PRU00258};
+A3FMN3,COFACTOR: Name=a divalent metal cation; Xref=ChEBI:CHEBI:60240; Evidence={ECO:0000269|PubMed:23110062};
+A4XXY8,"COFACTOR: Name=[2Fe-2S] cluster; Xref=ChEBI:CHEBI:190135; Evidence={ECO:0000255|PROSITE-ProRule:PRU00465, ECO:0000269|PubMed:27851736}; Note=Binds 1 2Fe-2S cluster per subunit. {ECO:0000255|PROSITE-ProRule:PRU00465, ECO:0000269|PubMed:27851736}; COFACTOR: Name=FMN; Xref=ChEBI:CHEBI:58210; Evidence={ECO:0000269|PubMed:27851736};"
+A6TGC5,"COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000255|HAMAP-Rule:MF_00983, ECO:0000269|PubMed:24379377, ECO:0007744|PDB:4NL4}; Note=Binds 2 zinc ions per subunit. {ECO:0000255|HAMAP-Rule:MF_00983, ECO:0000269|PubMed:24379377, ECO:0007744|PDB:4NL4};"
+A7GKX7,COFACTOR: Name=NAD(+); Xref=ChEBI:CHEBI:57540; Evidence={ECO:0000269|PubMed:20529859}; Note=Cannot use NADP(+) instead of NAD(+). {ECO:0000269|PubMed:20529859};
+A8M6W3,COFACTOR: Name=pantetheine 4'-phosphate; Xref=ChEBI:CHEBI:47942; Evidence={ECO:0000255};
+B0WQ10,COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000269|PubMed:16809456};
+B1G5Y9,COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250|UniProtKB:B0VHH0};
+B1PUC6,COFACTOR: Name=FAD; Xref=ChEBI:CHEBI:57692; Evidence={ECO:0000269|PubMed:25269103};
+B2HG54,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000269|PubMed:38430969};
+B4ER92,COFACTOR: Name=pantetheine 4'-phosphate; Xref=ChEBI:CHEBI:47942; Evidence={ECO:0000255|PROSITE-ProRule:PRU00258};
+B4ER95,COFACTOR: Name=pantetheine 4'-phosphate; Xref=ChEBI:CHEBI:47942; Evidence={ECO:0000255|PROSITE-ProRule:PRU00258};
+B4ER96,COFACTOR: Name=pantetheine 4'-phosphate; Xref=ChEBI:CHEBI:47942; Evidence={ECO:0000255|PROSITE-ProRule:PRU00258};
+B4ER97,COFACTOR: Name=pantetheine 4'-phosphate; Xref=ChEBI:CHEBI:47942; Evidence={ECO:0000255|PROSITE-ProRule:PRU00258};
+B8NLZ3,"COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000269|PubMed:37754565}; Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000269|PubMed:37754565}; Note=Binds 2 magnesium or manganese ions per subunit (By similarity). Has highest activity with magnesium, but also has activity with calcium (PubMed:37754565). {ECO:0000255|PROSITE-ProRule:PRU01082, ECO:0000269|PubMed:37754565};"
+C0HMD9,COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000255|RuleBase:RU361205};
+C3W5S0,"COFACTOR: Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000255|HAMAP-Rule:MF_04063, ECO:0000269|PubMed:22876177, ECO:0000269|PubMed:26976575, ECO:0000269|PubMed:27510745, ECO:0000269|PubMed:29215062}; Note=Binds 2 manganese ions per subunit. {ECO:0000255|HAMAP-Rule:MF_04063, ECO:0000269|PubMed:22876177, ECO:0000269|PubMed:26976575, ECO:0000269|PubMed:27510745, ECO:0000269|PubMed:29215062, ECO:0000269|PubMed:29691337, ECO:0000269|PubMed:29941893, ECO:0000269|PubMed:31536340, ECO:0000269|PubMed:36655124};"
+C6SZ50,COFACTOR: Name=FMN; Xref=ChEBI:CHEBI:58210; Evidence={ECO:0000250|UniProtKB:Q9SWE5}; Note=Binds 1 FMN per subunit. {ECO:0000250|UniProtKB:Q9SWE5};
+C6TA59,COFACTOR: Name=FMN; Xref=ChEBI:CHEBI:58210; Evidence={ECO:0000250|UniProtKB:Q9SWE5}; Note=Binds 1 FMN per subunit. {ECO:0000250|UniProtKB:Q9SWE5};
+C7M8J5,COFACTOR: Name=pyridoxal 5'-phosphate; Xref=ChEBI:CHEBI:597326; Evidence={ECO:0000269|PubMed:35414181};
+C7M8J6,COFACTOR: Name=pyridoxal 5'-phosphate; Xref=ChEBI:CHEBI:597326; Evidence={ECO:0000269|PubMed:35414181};
+D1A230,COFACTOR: Name=Fe(2+); Xref=ChEBI:CHEBI:29033; Evidence={ECO:0000269|PubMed:35487149};
+D3TS87,COFACTOR: Name=a divalent metal cation; Xref=ChEBI:CHEBI:60240; Evidence={ECO:0000269|PubMed:23110062};
+D8QZ31,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:Q96242};
+D8S724,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:Q96242};
+E0D202,COFACTOR: Name=pantetheine 4'-phosphate; Xref=ChEBI:CHEBI:47942; Evidence={ECO:0000255|PROSITE-ProRule:PRU00258}; Note=Binds 5 phosphopantetheines covalently. {ECO:0000255|PROSITE-ProRule:PRU00258};
+E0D203,COFACTOR: Name=pantetheine 4'-phosphate; Xref=ChEBI:CHEBI:47942; Evidence={ECO:0000255|PROSITE-ProRule:PRU00258}; Note=Binds 3 phosphopantetheines covalently. {ECO:0000255|PROSITE-ProRule:PRU00258};
+E0D204,COFACTOR: Name=pantetheine 4'-phosphate; Xref=ChEBI:CHEBI:47942; Evidence={ECO:0000255|PROSITE-ProRule:PRU00258}; Note=Binds 1 phosphopantetheine covalently. {ECO:0000255|PROSITE-ProRule:PRU00258};
+E0D205,COFACTOR: Name=pantetheine 4'-phosphate; Xref=ChEBI:CHEBI:47942; Evidence={ECO:0000255|PROSITE-ProRule:PRU00258}; Note=Binds 2 phosphopantetheines covalently. {ECO:0000255|PROSITE-ProRule:PRU00258};
+E0D206,COFACTOR: Name=pantetheine 4'-phosphate; Xref=ChEBI:CHEBI:47942; Evidence={ECO:0000255|PROSITE-ProRule:PRU00258}; Note=Binds 2 phosphopantetheines covalently. {ECO:0000255|PROSITE-ProRule:PRU00258};
+E0D207,"COFACTOR: Name=heme b; Xref=ChEBI:CHEBI:60344; Evidence={ECO:0000269|PubMed:28869713, ECO:0007744|PDB:5Y1I};"
+E0N688,"COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000269|PubMed:22046377}; Note=Binds 1 zinc ion per subunit. Binds a divalent metal cation, probably Zn(2+) in vivo, Ni(2+) ion is found in the crystal structure. {ECO:0000269|PubMed:22046377};"
+E6Y8B9,COFACTOR: Name=Ca(2+); Xref=ChEBI:CHEBI:29108; Evidence={ECO:0000269|PubMed:25204226};
+E7FHH1,"COFACTOR: Name=[4Fe-4S] cluster; Xref=ChEBI:CHEBI:49883; Evidence={ECO:0000269|PubMed:16199576, ECO:0000269|PubMed:36269456}; Note=Binds 1 [4Fe-4S] cluster per subunit (PubMed:16199576, PubMed:36269456). The [4Fe-4S] cluster has three cysteine ligands and one aspartic acid ligand (PubMed:36269456). {ECO:0000269|PubMed:16199576, ECO:0000269|PubMed:36269456}; COFACTOR: Name=tungstopterin; Xref=ChEBI:CHEBI:30402; Evidence={ECO:0000269|PubMed:16199576, ECO:0000269|PubMed:36269456}; Note=Binds 1 tungstopterin cofactor per subunit. {ECO:0000269|PubMed:16199576, ECO:0000269|PubMed:36269456};"
+E9Q3G8,COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Note=Binds at least 4 zinc ions per subunit.;
+F8AME3,COFACTOR: Name=[4Fe-4S] cluster; Xref=ChEBI:CHEBI:49883; Evidence={ECO:0000269|PubMed:38898040}; Note=Binds 3 [4Fe-4S] clusters (PubMed:38898040). The first cluster is coordinated with 3 cysteines and an exchangeable S-adenosyl-L-methionine (PubMed:38898040). {ECO:0000269|PubMed:38898040};
+G0RBE3,COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250|UniProtKB:P32361};
+G0RT93,COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250|UniProtKB:P35813}; Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000250|UniProtKB:P35813}; Note=Binds 2 magnesium or manganese ions per subunit. {ECO:0000255|PROSITE-ProRule:PRU01082};
+G1XJZ0,COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250|UniProtKB:P18064};
+G1XJZ4,COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250|UniProtKB:Q16539};
+G2QA95,COFACTOR: Name=FAD; Xref=ChEBI:CHEBI:57692; Evidence={ECO:0000269|PubMed:28010060};
+G4MZ21,COFACTOR: Name=Fe(2+); Xref=ChEBI:CHEBI:29033; Evidence={ECO:0000255|PROSITE-ProRule:PRU00805}; Note=Binds 1 Fe(2+) ion per subunit. {ECO:0000255|PROSITE-ProRule:PRU00805};
+G7IFI7,COFACTOR: Name=Na(+); Xref=ChEBI:CHEBI:29101; Evidence={ECO:0000269|PubMed:39186852}; Note=Binds 2 sodium ions to optimize substrate binding. {ECO:0000269|PubMed:39186852};
+J9VI85,COFACTOR: Name=pyridoxal 5'-phosphate; Xref=ChEBI:CHEBI:597326; Evidence={ECO:0000250|UniProtKB:P16120};
+O24769,"COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000269|PubMed:27849620}; Name=Co(2+); Xref=ChEBI:CHEBI:48828; Evidence={ECO:0000269|PubMed:27849620}; Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000269|PubMed:27849620}; Note=Is most active with Co(2+) (PubMed:27849620). Shows lower level of activity with Mn(2+), and weaker activity with Mg(2+) or Zn(2+) (PubMed:27849620). However, Mg(2+) and not Co(2+) is probably the relevant metal in vivo (PubMed:27849620). The metal content of the active site is modulated through substrate binding (PubMed:27849620). A dinuclear metal center is observed in OxsA-OXT-A-PPP and OxsA-OXT-A-PP complexes, while a mononuclear metal center is observed in OxsA-OXT-A-P and OxsA-OXT-A structures (PubMed:27849620). {ECO:0000269|PubMed:27849620};"
+O24770,COFACTOR: Name=[4Fe-4S] cluster; Xref=ChEBI:CHEBI:49883; Evidence={ECO:0000269|PubMed:28346939}; Note=Binds 1 [4Fe-4S] cluster. The cluster is coordinated with 3 cysteines and an exchangeable S-adenosyl-L-methionine. {ECO:0000269|PubMed:28346939}; COFACTOR: Name=cob(II)alamin; Xref=ChEBI:CHEBI:16304; Evidence={ECO:0000269|PubMed:28346939};
+O25828,"COFACTOR: Name=Ca(2+); Xref=ChEBI:CHEBI:29108; Evidence={ECO:0007744|PDB:2UVP}; Note=Binds 4 Ca(2+) ions, it is not known if they are physiologically relevant. {ECO:0000269|PubMed:17683397};"
+P0DXG6,COFACTOR: Name=FMN; Xref=ChEBI:CHEBI:58210; Evidence={ECO:0000250|UniProtKB:A0R6D0}; Note=Binds 1 FMN per subunit. {ECO:0000250|UniProtKB:A0R6D0};
+P0DXJ1,COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250|UniProtKB:P06525}; Note=Binds 2 Zn(2+) ions per subunit. {ECO:0000250|UniProtKB:P06525};
+P0DXJ2,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:Q96242};
+P0DXJ3,COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250|UniProtKB:P06525}; Note=Binds 2 Zn(2+) ions per subunit. {ECO:0000250|UniProtKB:P06525};
+P0DXJ6,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:Q94IP1};
+P0DXU9,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:Q16850};
+P0DXV0,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:Q16850};
+P0DXV3,COFACTOR: Name=pantetheine 4'-phosphate; Xref=ChEBI:CHEBI:47942; Evidence={ECO:0000255|PROSITE-ProRule:PRU00258};
+P0DXV4,COFACTOR: Name=pantetheine 4'-phosphate; Xref=ChEBI:CHEBI:47942; Evidence={ECO:0000255|PROSITE-ProRule:PRU00258};
+P0DXV5,COFACTOR: Name=FAD; Xref=ChEBI:CHEBI:57692; Evidence={ECO:0000305};
+P0DXV6,COFACTOR: Name=FAD; Xref=ChEBI:CHEBI:57692; Evidence={ECO:0000305};
+P0DXV7,COFACTOR: Name=pantetheine 4'-phosphate; Xref=ChEBI:CHEBI:47942; Evidence={ECO:0000255|PROSITE-ProRule:PRU00258};
+P0DXV8,COFACTOR: Name=pantetheine 4'-phosphate; Xref=ChEBI:CHEBI:47942; Evidence={ECO:0000255|PROSITE-ProRule:PRU00258};
+P0DXX8,COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000255|HAMAP-Rule:MF_00983}; Note=Binds 2 zinc ions per subunit. {ECO:0000255|HAMAP-Rule:MF_00983};
+P0DXY1,COFACTOR: Name=[4Fe-4S] cluster; Xref=ChEBI:CHEBI:49883; Evidence={ECO:0000269|PubMed:39867842}; Note=Binds 1 [4Fe-4S] cluster per monomer via a modified motif. {ECO:0000269|PubMed:39867842}; COFACTOR: Name=FAD; Xref=ChEBI:CHEBI:57692; Evidence={ECO:0000305|PubMed:39867842}; COFACTOR: Name=FMN; Xref=ChEBI:CHEBI:58210; Evidence={ECO:0000305|PubMed:39867842};
+P0DXZ0,COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000269|PubMed:23989142}; Note=Binds 2 Zn(2+) ions per subunit. {ECO:0000269|PubMed:23989142};
+P0DXZ2,COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250|UniProtKB:Q8A861}; Note=Binds 1 Mg(2+) ion per subunit. {ECO:0000250|UniProtKB:Q8A861};
+P0DXZ6,COFACTOR: Name=Ca(2+); Xref=ChEBI:CHEBI:29108; Evidence={ECO:0000250|UniProtKB:P00630}; Note=Binds 1 Ca(2+) ion. {ECO:0000250|UniProtKB:P00630};
+P0DY22,COFACTOR: Name=FAD; Xref=ChEBI:CHEBI:57692; Evidence={ECO:0000250|UniProtKB:E4QP00};
+P0DY42,COFACTOR: Name=Ca(2+); Xref=ChEBI:CHEBI:29108; Evidence={ECO:0000250|UniProtKB:P60043}; Note=Binds 1 Ca(2+) ion. {ECO:0000250|UniProtKB:P60043};
+P9WEG0,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:P04798};
+P9WEG1,COFACTOR: Name=pantetheine 4'-phosphate; Xref=ChEBI:CHEBI:47942; Evidence={ECO:0000255|PROSITE-ProRule:PRU00258};
+P9WEG5,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:P04798};
+Q080S8,"COFACTOR: Name=FAD; Xref=ChEBI:CHEBI:57692; Evidence={ECO:0000269|PubMed:27599855, ECO:0000269|PubMed:30420426};"
+Q0CPG6,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:P04798};
+Q0CPG7,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:P04798};
+Q0CPG8,COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250|UniProtKB:P13513};
+Q0CPG9,COFACTOR: Name=[2Fe-2S] cluster; Xref=ChEBI:CHEBI:190135; Evidence={ECO:0000269|PubMed:29995859}; Note=Binds 1 [2Fe-2S] cluster per subunit. {ECO:0000250|UniProtKB:P39522}; COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000269|PubMed:29995859};
+Q0KAA1,COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250|UniProtKB:B0VHH0};
+Q1MWN4,COFACTOR: Name=pantetheine 4'-phosphate; Xref=ChEBI:CHEBI:47942; Evidence={ECO:0000269|PubMed:17237222};
+Q2R560,COFACTOR: Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000250|UniProtKB:P43298};
+Q2TXQ8,COFACTOR: Name=pantetheine 4'-phosphate; Xref=ChEBI:CHEBI:47942; Evidence={ECO:0000255|PROSITE-ProRule:PRU00258};
+Q2U919,COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250|UniProtKB:P53041}; Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000250|UniProtKB:P53041}; Note=Binds 2 Mg(2+) or Mn(2+) cations per subunit. {ECO:0000250|UniProtKB:P53041};
+Q2WE96,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:Q96242};
+Q388N2,COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250|UniProtKB:P53041}; Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000250|UniProtKB:P53041}; Note=Binds 2 Mg(2+) or Mn(2+) cations per subunit. {ECO:0000250|UniProtKB:P53041};
+Q3J189,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000269|PubMed:20851979}; Note=Binds 1 heme per subunit. {ECO:0000269|PubMed:20851979};
+Q47720,COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000255|PROSITE-ProRule:PRU00409}; Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000255|PROSITE-ProRule:PRU00409}; Note=Binds 2 Mg(2+) or Mn(2+) ions per subunit. {ECO:0000255|PROSITE-ProRule:PRU00409};
+Q4J8R2,COFACTOR: Name=[4Fe-4S] cluster; Xref=ChEBI:CHEBI:49883; Evidence={ECO:0000250|UniProtKB:P0AB83}; Note=Binds 1 [4Fe-4S] cluster. {ECO:0000250|UniProtKB:P0AB83};
+Q4WF00,COFACTOR: Name=Cu(2+); Xref=ChEBI:CHEBI:29036; Evidence={ECO:0000269|PubMed:34798071}; Note=Binds 1 copper ion per subunit. {ECO:0000269|PubMed:34798071};
+Q4WTH5,COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250|UniProtKB:P35813}; Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000250|UniProtKB:P35813}; Note=Binds 2 magnesium or manganese ions per subunit. {ECO:0000255|PROSITE-ProRule:PRU01082};
+Q4WXF4,COFACTOR: Name=pyridoxal 5'-phosphate; Xref=ChEBI:CHEBI:597326; Evidence={ECO:0000250|UniProtKB:P34896};
+Q58T34,"COFACTOR: Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000250|UniProtKB:Q9LNJ9}; Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250|UniProtKB:Q9LNJ9}; Note=The L-fucokinase activity absolutely requires divalent cations such as Mn(2+) and Mg(2+). {ECO:0000250|UniProtKB:Q9LNJ9}; COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250|UniProtKB:Q9LNJ9}; Note=The GDP-fucose pyrophosphorylase activity also requires divalent cations, with a high preference for Mg(2+). {ECO:0000250|UniProtKB:Q9LNJ9};"
+Q5AY39,COFACTOR: Name=pantetheine 4'-phosphate; Xref=ChEBI:CHEBI:47942; Evidence={ECO:0000255|PROSITE-ProRule:PRU00258};
+Q5EP34,"COFACTOR: Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000255|HAMAP-Rule:MF_04063, ECO:0000269|PubMed:22876176}; Note=Binds 2 manganese ions per subunit. {ECO:0000255|HAMAP-Rule:MF_04063, ECO:0000269|PubMed:22876176};"
+Q5F676,COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250|UniProtKB:E0N688}; Note=Binds 1 zinc ion per subunit. {ECO:0000250|UniProtKB:E0N688};
+Q5F6V8,COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000255|HAMAP-Rule:MF_00983}; Note=Binds 2 zinc ions per subunit. {ECO:0000255|HAMAP-Rule:MF_00983};
+Q5JE51,"COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000255|HAMAP-Rule:MF_01476, ECO:0007744|PDB:6SKF, ECO:0007744|PDB:6SKG, ECO:0007744|PDB:6TH6}; Note=Binds 1 zinc ion per subunit. {ECO:0000255|HAMAP-Rule:MF_01476, ECO:0007744|PDB:6SKF, ECO:0007744|PDB:6SKG, ECO:0007744|PDB:6TH6};"
+Q5JFE2,"COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0007744|PDB:6SKF, ECO:0007744|PDB:6SKG, ECO:0007744|PDB:6TH6}; Note=Binds 2 zinc ions per subunit. {ECO:0007744|PDB:6SKF, ECO:0007744|PDB:6SKG, ECO:0007744|PDB:6TH6};"
+Q5JFH3,COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0007744|PDB:6SKG}; Note=Binds 1 zinc ion per subunit. {ECO:0007744|PDB:6SKG};
+Q5TVM9,COFACTOR: Name=a divalent metal cation; Xref=ChEBI:CHEBI:60240; Evidence={ECO:0000269|PubMed:39294191};
+Q5U117,COFACTOR: Name=FAD; Xref=ChEBI:CHEBI:57692; Evidence={ECO:0000255|RuleBase:RU362125};
+Q6LXX7,COFACTOR: Name=NAD(+); Xref=ChEBI:CHEBI:57540; Evidence={ECO:0000250|UniProtKB:Q8YMD9};
+Q70KH6,COFACTOR: Name=heme b; Xref=ChEBI:CHEBI:60344; Evidence={ECO:0000269|PubMed:21280577};
+Q83XP3,COFACTOR: Name=[4Fe-4S] cluster; Xref=ChEBI:CHEBI:49883; Evidence={ECO:0000269|PubMed:26240322}; Note=Binds 1 [4Fe-4S] cluster. The cluster is coordinated with 3 cysteines and an exchangeable S-adenosyl-L-methionine. {ECO:0000250|UniProtKB:A0A6B9HEI0}; COFACTOR: Name=cob(II)alamin; Xref=ChEBI:CHEBI:16304; Evidence={ECO:0000305|PubMed:26240322};
+Q83YH3,COFACTOR: Name=heme; Xref=ChEBI:CHEBI:30413; Evidence={ECO:0000250|UniProtKB:Q3J189}; Note=Binds 1 heme per subunit. {ECO:0000250|UniProtKB:Q3J189};
+Q88NV1,"COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000269|PubMed:30224353}; Note=ssDNA-stimulated ATPase is most active with Mg(2+) or Ca(2+); Mn(2+), Co(2+), Ni(2+) and Zn(2+) stimulate at low concentrations only. {ECO:0000269|PubMed:30224353};"
+Q8CWM9,COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000269|PubMed:28618091};
+Q8IBI5,COFACTOR: Name=pyridoxal 5'-phosphate; Xref=ChEBI:CHEBI:597326; Evidence={ECO:0000305|PubMed:34032321};
+Q8IKT4,COFACTOR: Name=[4Fe-4S] cluster; Xref=ChEBI:CHEBI:49883; Evidence={ECO:0000269|PubMed:34032321};
+Q8KN66,"COFACTOR: Name=NAD(+); Xref=ChEBI:CHEBI:57540; Evidence={ECO:0000269|PubMed:10747995, ECO:0000269|PubMed:15016816};"
+Q8U0V2,COFACTOR: Name=[4Fe-4S] cluster; Xref=ChEBI:CHEBI:49883; Evidence={ECO:0000269|PubMed:36269456}; Note=Binds 4 [4Fe-4S] clusters per subunit. {ECO:0000269|PubMed:36269456};
+Q92ZP8,COFACTOR: Name=FAD; Xref=ChEBI:CHEBI:57692; Evidence={ECO:0000250|UniProtKB:Q1QYU6}; Note=Binds 1 FAD per subunit. {ECO:0000250|UniProtKB:Q1QYU6}; COFACTOR: Name=[2Fe-2S] cluster; Xref=ChEBI:CHEBI:190135; Evidence={ECO:0000255|PROSITE-ProRule:PRU00465}; Note=Binds 1 2Fe-2S cluster. {ECO:0000255|PROSITE-ProRule:PRU00465};
+Q92ZP9,"COFACTOR: Name=[2Fe-2S] cluster; Xref=ChEBI:CHEBI:190135; Evidence={ECO:0000269|PubMed:22224443, ECO:0000269|PubMed:26996959, ECO:0000269|Ref.5}; Note=Binds 1 [2Fe-2S] cluster per subunit. {ECO:0000269|PubMed:22224443, ECO:0000269|PubMed:26996959, ECO:0000269|Ref.5}; COFACTOR: Name=Fe cation; Xref=ChEBI:CHEBI:24875; Evidence={ECO:0000269|PubMed:22224443, ECO:0000269|PubMed:26996959, ECO:0000269|Ref.5}; Note=Binds 1 Fe cation per subunit. {ECO:0000269|PubMed:22224443, ECO:0000269|PubMed:26996959, ECO:0000269|Ref.5};"
+Q95P65,COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000269|PubMed:20351782}; Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000269|PubMed:20351782};
+Q97ZJ8,COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000269|PubMed:29253195};
+Q98500,COFACTOR: Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000269|PubMed:11160672};
+Q9FD36,COFACTOR: Name=FMN; Xref=ChEBI:CHEBI:58210; Evidence={ECO:0000250|UniProtKB:A0R6D0}; Note=Binds 1 FMN per subunit. {ECO:0000250|UniProtKB:A0R6D0};
+Q9K163,COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250|UniProtKB:E0N688}; Note=Binds 1 zinc ion per subunit. {ECO:0000250|UniProtKB:E0N688};
+Q9KN86,COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000269|PubMed:32393643}; Note=Binds 1 zinc ion per subunit. {ECO:0000269|PubMed:32393643};
+Q9KU93,COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000250|UniProtKB:Q9KN86}; Note=Binds 1 zinc ion per subunit. {ECO:0000250|UniProtKB:Q9KN86};
+Q9KUL5,COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000269|PubMed:18498110}; Note=Binds 1 zinc ion per subunit. {ECO:0000269|PubMed:18498110};
+Q9KZP3,"COFACTOR: Name=a divalent metal cation; Xref=ChEBI:CHEBI:60240; Evidence={ECO:0000269|PubMed:19439403}; Note=Highest activity found with Co(2+) whereas Mn(2+) supports a lower activity; no activity detected with Ni(2+), Ca(2+) or Mg(2+). {ECO:0000269|PubMed:19439403};"
+Q9L391,COFACTOR: Name=pantetheine 4'-phosphate; Xref=ChEBI:CHEBI:47942; Evidence={ECO:0000255|PROSITE-ProRule:PRU00258};
+Q9L392,COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250|UniProtKB:Q96GD0};
+Q9L393,COFACTOR: Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000255|HAMAP-Rule:MF_01876}; Note=Binds 1 Mn(2+) ion per subunit. {ECO:0000255|HAMAP-Rule:MF_01876};
+Q9MCT1,COFACTOR: Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000269|PubMed:35947691}; Name=Mn(2+); Xref=ChEBI:CHEBI:29035; Evidence={ECO:0000269|PubMed:35947691};
+Q9VHC5,COFACTOR: Name=Fe(2+); Xref=ChEBI:CHEBI:29033; Evidence={ECO:0000250|UniProtKB:Q9Y4C1}; Note=Binds 1 Fe(2+) ion per subunit. {ECO:0000250|UniProtKB:Q9Y4C1};
+Q9VHK6,COFACTOR: Name=Fe(2+); Xref=ChEBI:CHEBI:29033; Evidence={ECO:0000269|PubMed:27738674}; Name=[2Fe-2S] cluster; Xref=ChEBI:CHEBI:190135; Evidence={ECO:0000269|PubMed:27738674}; Note=Fe(2+) binding protein that acts as a scaffold for the assembly of iron-sulfur clusters (PubMed:27738674). Binds 1 [2Fe-2S] cluster per subunit (PubMed:27738674). {ECO:0000269|PubMed:27738674};
+Q9VJ10,COFACTOR: Name=FAD; Xref=ChEBI:CHEBI:57692; Evidence={ECO:0000305};
+Q9VJ31,COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000255|PROSITE-ProRule:PRU00333};
+Q9VU77,COFACTOR: Name=Fe(2+); Xref=ChEBI:CHEBI:29033; Evidence={ECO:0000269|PubMed:35410347};
+Q9W0M3,COFACTOR: Name=Fe(2+); Xref=ChEBI:CHEBI:29033; Evidence={ECO:0000250|UniProtKB:Q8N371}; Note=Binds 1 Fe(2+) ion per subunit. {ECO:0000250|UniProtKB:Q8N371};
+Q9ZPL5,"COFACTOR: Name=pyridoxal 5'-phosphate; Xref=ChEBI:CHEBI:597326; Evidence={ECO:0000269|PubMed:10438597, ECO:0000269|PubMed:11518531}; Note=Binds 1 pyridoxal 5'-phosphate per subunit. {ECO:0000269|PubMed:10438597, ECO:0000269|PubMed:11518531};"
+W1QET1,COFACTOR: Name=Zn(2+); Xref=ChEBI:CHEBI:29105; Evidence={ECO:0000255|HAMAP-Rule:MF_03049}; Note=Binds 1 zinc ion per subunit. {ECO:0000255|HAMAP-Rule:MF_03049};

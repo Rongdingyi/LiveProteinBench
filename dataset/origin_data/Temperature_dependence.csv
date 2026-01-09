@@ -1,0 +1,51 @@
+Entry,Temperature dependence
+A0A075D654,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 30 degrees Celsius. {ECO:0000269|PubMed:27122470};
+A0A075D6M1,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 30 degrees Celsius. {ECO:0000269|PubMed:27122470};
+A0A089MMR2,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 35 degrees Celsius (for the reverse phosphorolytic activity) (PubMed:35947916). Retains more than 90% of its original activity after incubation at 30 degrees Celsius for 1 hour (PubMed:35947916). {ECO:0000269|PubMed:35947916};
+A0A0B5JC15,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 50 degrees Celsius. {ECO:0000269|PubMed:25629035};
+A0A0F6NRE2,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 50 degrees Celsius. {ECO:0000269|PubMed:25432346};
+A0A0U3S9Q3,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 37 degrees Celsius. {ECO:0000269|PubMed:12391554};
+A0A218NGS0,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 30 degrees Celsius. {ECO:0000269|PubMed:28654178};
+A0A261GRE4,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is approximately 40 degrees Celsius (PubMed:39382070). Maintains 60-50% of activity between 40 and 65 degrees Celsius and retains 30% of activity at 72 degrees Celsius (PubMed:39382070). {ECO:0000269|PubMed:39382070};
+A0A261GVB1,"BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is approximately 40 degrees Celsius (PubMed:39382070). Activity goes below 50% under 25 degrees Celsius and past 45 degrees Celsius, and the enzyme no longer exhibits activity at 72 degrees Celsius (PubMed:39382070). {ECO:0000269|PubMed:39382070};"
+A0A2H1K3G9,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 25 degrees Celsius. Is active between 5 and 50 degrees Celsius. {ECO:0000269|PubMed:9726878};
+A0A3F2YLV2,"BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Thermostable up to 240 min at 100 degrees Celsius. As the heating time increases, homodimers increase while monomers decrease gradually. Melting temperature (Tm) is 79.2 degrees Celsius. Reversable thermal denaturation. {ECO:0000269|PubMed:29969026};"
+A0A7M4EAX1,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Thermostable between pH 4.0-9.5. Average melting temperature (Tm) across all pH values is 74 degrees Celsius. {ECO:0000269|PubMed:39584689};
+A0A9E7LUL3,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 22-47 degrees Celsius. {ECO:0000269|PubMed:36349266};
+A0A9E7S4M3,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 32-37 degrees Celsius. {ECO:0000269|PubMed:36349266};
+A0A9E7S4M4,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 42 degrees Celsius. {ECO:0000269|PubMed:36349266};
+A0A9E7S518,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 37 degrees Celsius. {ECO:0000269|PubMed:36349266};
+A0A9E7S5B9,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 42 degrees Celsius. {ECO:0000269|PubMed:36349266};
+A0A9E7S5E3,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 32-37 degrees Celsius. {ECO:0000269|PubMed:36349266};
+A0AA51VIL5,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 45 degrees Celsius. {ECO:0000269|PubMed:37675639};
+A0AA51VKJ3,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 30-50 degrees Celsius. {ECO:0000269|PubMed:37675639};
+A0AA51Z0J6,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 45 degrees Celsius. {ECO:0000269|PubMed:37675639};
+A3MTR6,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 90 degrees Celsius (for phosphoglucose isomerase activity) (PubMed:39208883). Displays high thermostability with a half-life of about 50 minutes at 100 degrees Celsius (PubMed:39208883). {ECO:0000269|PubMed:39208883};
+A7GKX7,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 37 degrees Celsius. {ECO:0000269|PubMed:20529859};
+B0XAA1,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 35.0 degrees Celsius (PubMed:25746591). Active from 30 to 60 degrees Celsius (PubMed:25746591). {ECO:0000269|PubMed:25746591};
+B6ZKM3,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 55-60 degrees Celsius. {ECO:0000269|PubMed:18927081};
+D1A230,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Exhibits robust catalytic activity from 37 to 55 degrees Celsius. {ECO:0000269|PubMed:27107642};
+D3KY98,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 40 degrees Celsius with N-deacetylisoipecoside as substrate. {ECO:0000269|PubMed:20061395};
+D3KY99,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 45 degrees Celsius with N-deacetylisoipecoside as substrate. {ECO:0000269|PubMed:20061395};
+D3KYA0,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 40 degrees Celsius with (S)-reticuline as substrate. {ECO:0000269|PubMed:20061395};
+D4QD81,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 37 degrees Celsius. Active from 20 to 45 degrees Celsius. {ECO:0000269|PubMed:22206819};
+E7FHH1,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 80 degrees Celsius for the oxidation of hexanal. {ECO:0000269|PubMed:16199576};
+G2QA95,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 50 degrees Celsius. {ECO:0000269|PubMed:28010060};
+I0AIT9,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 55 degrees Celsius (PubMed:35065074). Stable up to 60 degrees Celsius after incubation for 1 hour (PubMed:35065074). {ECO:0000269|PubMed:35065074};
+M4MEY9,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 70 degrees Celsius. {ECO:0000269|PubMed:23306124};
+M4MGK7,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 80 degrees Celsius. {ECO:0000269|PubMed:23306124};
+M4MLB5,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 70 degrees Celsius. {ECO:0000269|PubMed:23306124};
+P0DRJ4,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Retains its effectiveness even after exposure to 100 degrees Celsius. {ECO:0000269|PubMed:39620694};
+P0DRJ7,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 30-40 degrees Celsius. {ECO:0000269|PubMed:12821319};
+P0DXG6,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 35 degrees Celsius. {ECO:0000269|PubMed:34554625};
+P0DXG7,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 30 degrees Celsius. {ECO:0000269|PubMed:34554625};
+P0DXJ3,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 30 degrees Celsius. {ECO:0000269|PubMed:11937349};
+P0DY04,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Partially and reversibly loses its structure as temperature increases. {ECO:0000269|PubMed:27267248};
+Q8KN66,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is between 37 and 42 degrees Celsius. {ECO:0000269|PubMed:10747995};
+Q95P65,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 40 degrees Celsius. Active from 20 to 47 degrees Celsius. {ECO:0000269|PubMed:20351782};
+Q97ZJ8,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 75 degrees Celsius for topoisomerase activity (PubMed:29253195). Optimum temperature for decatenase is 75-90 degrees Celsius (PubMed:29253195). {ECO:0000269|PubMed:29253195};
+Q9RHD7,"BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Activity is relatively constant over a wide temperature range from 37 to 56 degrees Celsius (PubMed:10931835). Optimum temperature is between 37 and 42 degrees Celsius (PubMed:18065759). {ECO:0000269|PubMed:10931835, ECO:0000269|PubMed:18065759};"
+V9LFM0,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Thermostable between pH 4.0-9.5. Average melting temperature (Tm) across all pH values is 71 degrees Celsius. Lower melting temperature in acidic pH 4.0-5.0. {ECO:0000269|PubMed:39584689};
+V9TNS0,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 50 degrees Celsius. {ECO:0000269|PubMed:24262572};
+V9TS54,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 60 degrees Celsius. {ECO:0000269|PubMed:24262572};
+V9TT49,BIOPHYSICOCHEMICAL PROPERTIES:  Temperature dependence: Optimum temperature is 50 degrees Celsius. {ECO:0000269|PubMed:24262572};
