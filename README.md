@@ -1,6 +1,6 @@
 # LiveProteinBench
 
-LiveProteinBench is a benchmark suite designed for evaluating Large Language Models (LLMs) and Vision-Language Models (VLMs) on protein-related tasks. This project aims to assess the capabilities of models in understanding protein sequences, structural images, and predicting various biological functions.
+LiveProteinBench is a benchmark suite designed for evaluating Large Language Models (LLMs) on protein-related tasks. This project aims to assess the capabilities of models in understanding protein sequences, structural images, and predicting various biological functions.
 
 ## Introduction
 
@@ -29,13 +29,13 @@ The benchmark covers a wide range of biological prediction tasks (defined in `pr
 
 ```
 LiveProteinBench/
-├── chat.py             # Multimodal evaluation script (Sequence + Images)
-├── chat_nopic.py       # Text-only evaluation script (Sequence only)
-├── prompt.json         # Task definitions and prompt templates
-└── dataset/            # Original dataset files
-    ├── origin_data/    # CSV data for each task
-    ├── pictures/       # Protein structure images
-    └── QA/             # Question data for each task
+├── chat.py                   # Multimodal evaluation script (Sequence + Images)
+├── chat_nopic.py             # Text-only evaluation script (Sequence only)
+├── prompt.json               # Task definitions and prompt templates
+└── dataset/                  # Original dataset files
+    ├── generate_images.py    # Generate structure images for the dataset
+    ├── origin_data/          # CSV data for each task
+    └── QA/                   # Question data for each task
 
 ```
 
