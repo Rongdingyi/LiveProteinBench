@@ -10,10 +10,10 @@
       "pictures/Q4WTH5/Q4WTH5_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.1.1.4 | phospholipase A2",
-      "B": "3.1.3.2 | acid phosphatase",
-      "C": "3.1.3.16 | protein-serine/threonine phosphatase",
-      "D": "3.1.3.112 | protein-serine/threonine phosphatase"
+      "A": "UDP-N-acetyl-D-mannosamine dehydrogenase",
+      "B": "N-acylneuraminate cytidylyltransferase",
+      "C": "protein-serine/threonine phosphatase",
+      "D": "dihydropteroate synthase"
     }
   },
   {
@@ -27,10 +27,10 @@
       "pictures/A0A1H1YBL2/A0A1H1YBL2_right.png"
     ],
     "Multiple Choices": {
-      "A": "4.3.1.24 | phenylalanine ammonia-lyase",
-      "B": "4.3.3.9 | indigoidine synthase",
-      "C": "4.3.1.12 | methionine gamma-lyase",
-      "D": "4.4.1.11 | methionine gamma-lyase"
+      "A": "pseudouridylate synthase",
+      "B": "histidine kinase",
+      "C": "methionine gamma-lyase",
+      "D": "aliphatic sulfonate oxidoreductase"
     }
   },
   {
@@ -44,10 +44,10 @@
       "pictures/A0A0A8X338/A0A0A8X338_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.97.1.13 | selenate reductase (quinol)",
-      "B": "1.97.1.14 | selenate reductase (quinol)",
-      "C": "1.14.15.9 | spheroidene monooxygenase",
-      "D": "1.16.1.10 | ferric-chelate reductase [NAD(P)H]"
+      "A": "FMN reductase (NADPH)",
+      "B": "(19E)-geissoschizine oxidase",
+      "C": "selenate reductase (quinol)",
+      "D": "3alpha(S)-strictosidine beta-glucosidase"
     }
   },
   {
@@ -61,10 +61,10 @@
       "pictures/Q92ZP9/Q92ZP9_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.14.13.238 | stachydrine N-demethylase",
-      "B": "1.14.14.154 | sterol 14alpha-demethylase",
-      "C": "1.14.14.126 | beta-amyrin 28-monooxygenase",
-      "D": "1.14.13.247 | stachydrine N-demethylase"
+      "A": "mitogen-activated protein kinase",
+      "B": "stachydrine N-demethylase",
+      "C": "NAD+ glycohydrolase",
+      "D": "glycine hydroxymethyltransferase"
     }
   },
   {
@@ -78,10 +78,10 @@
       "pictures/A0AAN4PAE6/A0AAN4PAE6_right.png"
     ],
     "Multiple Choices": {
-      "A": "4.3.3.9 | indigoidine synthase",
-      "B": "4.3.1.12 | phenylalanine ammonia-lyase",
-      "C": "4.2.3.1 | threonine synthase",
-      "D": "4.3.1.24 | phenylalanine ammonia-lyase"
+      "A": "D-alanine-D-serine ligase",
+      "B": "ferric-chelate reductase [NAD(P)H]",
+      "C": "phenylalanine ammonia-lyase",
+      "D": "N-acetyl-D-glutamate racemase"
     }
   },
   {
@@ -95,10 +95,10 @@
       "pictures/A0A9E7S5B9/A0A9E7S5B9_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.1.1.195 | cinnamyl-alcohol dehydrogenase",
-      "B": "1.1.1.336 | UDP-N-acetyl-D-mannosamine dehydrogenase",
-      "C": "1.1.1.122 | rhazimal reductase",
-      "D": "1.1.1.440 | rhazimal reductase"
+      "A": "rhazimal reductase",
+      "B": "mitogen-activated protein kinase",
+      "C": "spheroidene monooxygenase",
+      "D": "beta-glucuronidase"
     }
   },
   {
@@ -112,10 +112,10 @@
       "pictures/A0A9E7LUL3/A0A9E7LUL3_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.3.1.322 | akuammiline synthase",
-      "B": "2.3.1.312 | D-glutamate N-acetyltransferase",
-      "C": "2.3.1.193 | tRNAMet cytidine acetyltransferase",
-      "D": "2.3.1.319 | akuammiline synthase"
+      "A": "nicotinamide phosphoribosyltransferase",
+      "B": "akuammiline synthase",
+      "C": "4'-phospho-dehydrooxetanocin synthase",
+      "D": "betaine-homocysteine S-methyltransferase"
     }
   },
   {
@@ -129,10 +129,10 @@
       "pictures/A0A2H1K3G9/A0A2H1K3G9_right.png"
     ],
     "Multiple Choices": {
-      "A": "4.4.1.11 | methionine gamma-lyase",
-      "B": "4.3.1.24 | phenylalanine ammonia-lyase",
-      "C": "4.3.1.12 | ornithine cyclodeaminase",
-      "D": "4.3.3.9 | methionine gamma-lyase"
+      "A": "NAD(P)H dehydrogenase (quinone)",
+      "B": "NAD+ glycohydrolase",
+      "C": "methylglutaconyl-CoA hydratase",
+      "D": "methionine gamma-lyase"
     }
   },
   {
@@ -146,10 +146,10 @@
       "pictures/Q8XAN6/Q8XAN6_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.3.1.193 | tRNAMet cytidine acetyltransferase",
-      "B": "2.3.1.319 | 3,5-dioxohexanoate:acetyl-CoA acetone transferase",
-      "C": "2.3.1.322 | RING-type E3 ubiquitin transferase",
-      "D": "2.3.2.27 | RING-type E3 ubiquitin transferase"
+      "A": "RING-type E3 ubiquitin transferase",
+      "B": "1'-carboxy-chondrochloren decarboxylase",
+      "C": "alpha-glucosidase",
+      "D": "[protein ADP-ribosylarginine] hydrolase"
     }
   },
   {
@@ -163,10 +163,10 @@
       "pictures/A0A1D8PMB8/A0A1D8PMB8_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.7.1.52 | fucokinase",
-      "B": "2.7.1.39 | homoserine kinase",
-      "C": "2.7.2.3 | aspartate kinase",
-      "D": "2.7.2.4 | aspartate kinase"
+      "A": "aspartate kinase",
+      "B": "fucokinase",
+      "C": "mRNA m6A methyltransferase",
+      "D": "DNA topoisomerase"
     }
   },
   {
@@ -180,10 +180,10 @@
       "pictures/Q5TVM9/Q5TVM9_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.4.21.62 | Subtilisin",
-      "B": "3.6.1.74 | apyrase",
-      "C": "3.6.1.5 | apyrase",
-      "D": "3.5.2.6 | beta-lactamase"
+      "A": "apyrase",
+      "B": "tRNAMet cytidine acetyltransferase",
+      "C": "vomilenine reductase",
+      "D": "UDP-N-acetyl-D-mannosamine dehydrogenase"
     }
   },
   {
@@ -197,10 +197,10 @@
       "pictures/V9TNS0/V9TNS0_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.2.1.18 | exo-alpha-sialidase",
-      "B": "3.2.1.20 | alpha-glucosidase",
-      "C": "3.2.1.37 | xylan 1,4-beta-xylosidase",
-      "D": "3.2.1.8 | xylan 1,4-beta-xylosidase"
+      "A": "xylan 1,4-beta-xylosidase",
+      "B": "homoserine kinase",
+      "C": "aspartate kinase",
+      "D": "peptidylprolyl isomerase"
     }
   },
   {
@@ -214,10 +214,10 @@
       "pictures/P0DXU9/P0DXU9_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.14.14.154 | sterol 14alpha-demethylase",
-      "B": "1.14.14.126 | beta-amyrin 28-monooxygenase",
-      "C": "1.14.14.104 | vinorine hydroxylase",
-      "D": "1.14.14.187 | sterol 14alpha-demethylase"
+      "A": "alpha-glucosidase",
+      "B": "UDP-N-acetyl-D-mannosamine dehydrogenase",
+      "C": "mRNA N6-methyladenine demethylase",
+      "D": "sterol 14alpha-demethylase"
     }
   },
   {
@@ -231,10 +231,10 @@
       "pictures/A0A194W8T8/A0A194W8T8_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.7.11.24 | mitogen-activated protein kinase",
-      "B": "2.7.13.3 | histidine kinase",
-      "C": "2.7.11.11 | cAMP-dependent protein kinase",
-      "D": "2.7.11.1 | mitogen-activated protein kinase"
+      "A": "3-oxoadipate:acetyl-CoA acetyltransferase",
+      "B": "demethylluteothin O-methyltransferase",
+      "C": "tyramine N-methyltransferase",
+      "D": "mitogen-activated protein kinase"
     }
   },
   {
@@ -248,10 +248,10 @@
       "pictures/Q1MWN4/Q1MWN4_right.png"
     ],
     "Multiple Choices": {
-      "A": "4.2.3.1 | threonine synthase",
-      "B": "4.3.3.9 | indigoidine synthase",
-      "C": "4.3.1.24 | phenylalanine ammonia-lyase",
-      "D": "4.3.1.12 | indigoidine synthase"
+      "A": "phenylalanine ammonia-lyase",
+      "B": "threonine synthase",
+      "C": "mannitol-1-phosphate 5-dehydrogenase",
+      "D": "indigoidine synthase"
     }
   },
   {
@@ -265,10 +265,10 @@
       "pictures/G2X0L1/G2X0L1_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.2.1.20 | alpha-glucosidase",
-      "B": "3.2.1.105 | 3alpha(S)-strictosidine beta-glucosidase",
-      "C": "3.2.1.8 | endo-1,4-beta-xylanase",
-      "D": "3.2.1.18 | endo-1,4-beta-xylanase"
+      "A": "demethylluteothin O-methyltransferase",
+      "B": "endo-1,4-beta-xylanase",
+      "C": "dimethylamine monooxygenase",
+      "D": "tRNA (guanosine18-2'-O)-methyltransferase"
     }
   },
   {
@@ -282,10 +282,10 @@
       "pictures/A0A0B5JC15/A0A0B5JC15_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.2.1.8 | endo-1,4-beta-xylanase",
-      "B": "3.2.1.18 | exo-alpha-sialidase",
-      "C": "3.2.1.105 | 3alpha(S)-strictosidine beta-glucosidase",
-      "D": "3.2.1.20 | endo-1,4-beta-xylanase"
+      "A": "N-acylneuraminate cytidylyltransferase",
+      "B": "thioredoxin-disulfide reductase (NADPH)",
+      "C": "endo-1,4-beta-xylanase",
+      "D": "demethylluteothin O-methyltransferase"
     }
   },
   {
@@ -299,10 +299,10 @@
       "pictures/A0A0A8X5N4/A0A0A8X5N4_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.97.1.13 | selenate reductase (quinol)",
-      "B": "1.16.1.10 | ferric-chelate reductase [NAD(P)H]",
-      "C": "1.14.15.9 | spheroidene monooxygenase",
-      "D": "1.97.1.14 | selenate reductase (quinol)"
+      "A": "selenate reductase (quinol)",
+      "B": "cysteate synthase",
+      "C": "fucokinase",
+      "D": "3-oxoadipate:acetyl-CoA acetyltransferase"
     }
   },
   {
@@ -316,10 +316,10 @@
       "pictures/A0A194WDG1/A0A194WDG1_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.7.11.1 | non-specific serine/threonine protein kinase",
-      "B": "2.7.11.11 | mitogen-activated protein kinase",
-      "C": "2.7.11.24 | mitogen-activated protein kinase",
-      "D": "2.7.13.3 | histidine kinase"
+      "A": "mannose-6-phosphate isomerase",
+      "B": "non-reducing end alpha-L-arabinofuranosidase",
+      "C": "mitogen-activated protein kinase",
+      "D": "apyrase"
     }
   },
   {
@@ -333,10 +333,10 @@
       "pictures/A0A8J1LLF7/A0A8J1LLF7_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.1.3.112 | 4'-phosphooxetanocin A phosphatase",
-      "B": "3.1.3.2 | acid phosphatase",
-      "C": "3.1.3.16 | ribonuclease III",
-      "D": "3.1.26.3 | ribonuclease III"
+      "A": "Togavirin",
+      "B": "ribonuclease III",
+      "C": "aliphatic sulfonate oxidoreductase",
+      "D": "cysteate synthase"
     }
   },
   {
@@ -350,10 +350,10 @@
       "pictures/A0A9E7S4M3/A0A9E7S4M3_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.14.14.154 | sterol 14alpha-demethylase",
-      "B": "1.14.14.104 | vinorine hydroxylase",
-      "C": "1.14.14.187 | rhazimal synthase",
-      "D": "1.14.14.126 | rhazimal synthase"
+      "A": "rhazimal synthase",
+      "B": "mRNA 5'-phosphatase",
+      "C": "vinorine hydroxylase",
+      "D": "spheroidene monooxygenase"
     }
   },
   {
@@ -367,10 +367,10 @@
       "pictures/O51799/O51799_right.png"
     ],
     "Multiple Choices": {
-      "A": "5.4.99.39 | 4-carboxymethyl-4-methylbutenolide mutase",
-      "B": "5.3.1.8 | mannose-6-phosphate isomerase",
-      "C": "5.3.1.16 | 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase",
-      "D": "5.4.99.14 | 4-carboxymethyl-4-methylbutenolide mutase"
+      "A": "acetylajmaline esterase",
+      "B": "etheroleic acid synthase",
+      "C": "akuammiline synthase",
+      "D": "4-carboxymethyl-4-methylbutenolide mutase"
     }
   },
   {
@@ -384,10 +384,10 @@
       "pictures/Q2R560/Q2R560_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.7.11.11 | cAMP-dependent protein kinase",
-      "B": "2.7.11.24 | non-specific serine/threonine protein kinase",
-      "C": "2.7.13.3 | histidine kinase",
-      "D": "2.7.11.1 | non-specific serine/threonine protein kinase"
+      "A": "ribonuclease III",
+      "B": "demethylluteothin O-methyltransferase",
+      "C": "histidine kinase",
+      "D": "non-specific serine/threonine protein kinase"
     }
   },
   {
@@ -401,10 +401,10 @@
       "pictures/V9TS54/V9TS54_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.2.1.18 | exo-alpha-sialidase",
-      "B": "3.2.1.8 | endo-1,4-beta-xylanase",
-      "C": "3.2.1.20 | alpha-glucosidase",
-      "D": "3.2.1.105 | endo-1,4-beta-xylanase"
+      "A": "colneleate synthase",
+      "B": "endo-1,4-beta-xylanase",
+      "C": "cAMP-dependent protein kinase",
+      "D": "beta-amyrin synthase"
     }
   },
   {
@@ -418,10 +418,10 @@
       "pictures/P0DXZ2/P0DXZ2_right.png"
     ],
     "Multiple Choices": {
-      "A": "5.1.1.25 | N-acetyl-D-glutamate racemase",
-      "B": "5.1.1.24 | N-acetyl-D-glutamate racemase",
-      "C": "5.1.3.45 | UDP-N-acetyl-alpha-D-glucosaminouronate 4-epimerase",
-      "D": "5.1.3.14 | UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)"
+      "A": "beta-lactamase",
+      "B": "cAMP-dependent protein kinase",
+      "C": "UDP-N-acetyl-alpha-D-glucosaminuronate decarboxylase",
+      "D": "N-acetyl-D-glutamate racemase"
     }
   },
   {
@@ -435,10 +435,10 @@
       "pictures/A0A7T8F1L4/A0A7T8F1L4_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.1.1.336 | UDP-N-acetyl-D-mannosamine dehydrogenase",
-      "B": "1.2.1.11 | aspartate-semialdehyde dehydrogenase",
-      "C": "1.2.1.101 | L-tyrosine reductase",
-      "D": "1.2.1.46 | L-tyrosine reductase"
+      "A": "lipid A phosphoethanolamine transferase",
+      "B": "UDP-N-acetyl-alpha-D-glucosaminuronate decarboxylase",
+      "C": "sterol 14alpha-demethylase",
+      "D": "L-tyrosine reductase"
     }
   },
   {
@@ -452,10 +452,10 @@
       "pictures/Q8IPZ3/Q8IPZ3_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.5.1.38 | FMN reductase (NADPH)",
-      "B": "1.5.1.32 | vomilenine reductase",
-      "C": "1.6.5.2 | NAD(P)H dehydrogenase (quinone)",
-      "D": "1.8.1.9 | NAD(P)H dehydrogenase (quinone)"
+      "A": "fucokinase",
+      "B": "phospholipase A2",
+      "C": "3alpha(S)-strictosidine beta-glucosidase",
+      "D": "NAD(P)H dehydrogenase (quinone)"
     }
   },
   {
@@ -469,10 +469,10 @@
       "pictures/Q53AM4/Q53AM4_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.4.21.90 | Togavirin",
-      "B": "3.4.21.62 | Togavirin",
-      "C": "3.5.2.6 | beta-lactamase",
-      "D": "3.4.13.22 | D-Ala-D-Ala dipeptidase"
+      "A": "UDP-N-acetyl-D-mannosamine dehydrogenase",
+      "B": "Togavirin",
+      "C": "threonine synthase",
+      "D": "(19E)-geissoschizine oxidase"
     }
   },
   {
@@ -486,10 +486,10 @@
       "pictures/Q7PYT9/Q7PYT9_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.2.1.20 | alpha-glucosidase",
-      "B": "3.2.1.8 | endo-1,4-beta-xylanase",
-      "C": "3.2.1.105 | 3alpha(S)-strictosidine beta-glucosidase",
-      "D": "3.2.1.18 | alpha-glucosidase"
+      "A": "alpha-glucosidase",
+      "B": "acetylajmaline esterase",
+      "C": "DELTA3,5-DELTA2,4-dienoyl-CoA isomerase",
+      "D": "alcohol dehydrogenase"
     }
   },
   {
@@ -503,10 +503,10 @@
       "pictures/Q9VHC5/Q9VHC5_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.14.11.65 | [histone H3]-dimethyl-L-lysine9 demethylase",
-      "B": "1.14.11.63 | peptidyl-lysine (3S)-dioxygenase",
-      "C": "1.14.11.73 | [protein]-arginine 3-hydroxylase",
-      "D": "1.14.11.53 | [histone H3]-dimethyl-L-lysine9 demethylase"
+      "A": "[histone H3]-dimethyl-L-lysine9 demethylase",
+      "B": "tRNA (guanosine18-2'-O)-methyltransferase",
+      "C": "selenate reductase (quinol)",
+      "D": "acetylajmaline esterase"
     }
   },
   {
@@ -520,10 +520,10 @@
       "pictures/G1XJZ4/G1XJZ4_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.7.11.1 | non-specific serine/threonine protein kinase",
-      "B": "2.7.11.11 | mitogen-activated protein kinase",
-      "C": "2.7.11.24 | mitogen-activated protein kinase",
-      "D": "2.7.13.3 | histidine kinase"
+      "A": "beta-lactamase",
+      "B": "akuammiline synthase",
+      "C": "peptidyl-tRNA hydrolase",
+      "D": "mitogen-activated protein kinase"
     }
   },
   {
@@ -537,10 +537,10 @@
       "pictures/A0A974H8H3/A0A974H8H3_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.1.3.112 | 4'-phosphooxetanocin A phosphatase",
-      "B": "3.1.3.16 | protein-serine/threonine phosphatase",
-      "C": "3.1.26.3 | ribonuclease III",
-      "D": "3.1.3.2 | ribonuclease III"
+      "A": "apyrase",
+      "B": "ribonuclease III",
+      "C": "FMN reductase (NADPH)",
+      "D": "(19E)-geissoschizine oxidase"
     }
   },
   {
@@ -554,10 +554,10 @@
       "pictures/G4N954/G4N954_right.png"
     ],
     "Multiple Choices": {
-      "A": "4.2.1.70 | pseudouridylate synthase",
-      "B": "4.2.1.18 | methylglutaconyl-CoA hydratase",
-      "C": "4.2.1.9 | dihydroxy-acid dehydratase",
-      "D": "4.2.1.183 | methylglutaconyl-CoA hydratase"
+      "A": "DNA 3'-5' helicase",
+      "B": "spheroidene monooxygenase",
+      "C": "holo-[acyl-carrier-protein] synthase",
+      "D": "methylglutaconyl-CoA hydratase"
     }
   },
   {
@@ -571,10 +571,10 @@
       "pictures/Q0KAA1/Q0KAA1_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.3.1.193 | tRNAMet cytidine acetyltransferase",
-      "B": "2.3.1.322 | akuammiline synthase",
-      "C": "2.3.1.318 | 3-oxoadipate:acetyl-CoA acetyltransferase",
-      "D": "2.3.1.319 | 3-oxoadipate:acetyl-CoA acetyltransferase"
+      "A": "NAD+ synthase (glutamine-hydrolysing)",
+      "B": "phenylalanine ammonia-lyase",
+      "C": "3-oxoadipate:acetyl-CoA acetyltransferase",
+      "D": "L-arabinitol 4-dehydrogenase"
     }
   },
   {
@@ -588,10 +588,10 @@
       "pictures/A0AAT9JA24/A0AAT9JA24_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.1.1.122 | D-threo-aldose 1-dehydrogenase",
-      "B": "1.1.1.1 | alcohol dehydrogenase",
-      "C": "1.1.1.195 | cinnamyl-alcohol dehydrogenase",
-      "D": "1.1.1.336 | D-threo-aldose 1-dehydrogenase"
+      "A": "D-threo-aldose 1-dehydrogenase",
+      "B": "3-oxoadipate:acetyl-CoA acetyltransferase",
+      "C": "protein-serine/threonine phosphatase",
+      "D": "cysteate synthase"
     }
   },
   {
@@ -605,10 +605,10 @@
       "pictures/A0A075D6M1/A0A075D6M1_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.1.1.395 | 7'-O-demethylcephaeline methyltransferase",
-      "B": "2.1.1.27 | tyramine N-methyltransferase",
-      "C": "2.1.1.392 | norajmaline N-methyltransferase",
-      "D": "2.1.1.393 | norajmaline N-methyltransferase"
+      "A": "tyramine N-methyltransferase",
+      "B": "geissoschizine dehydrogenase",
+      "C": "norajmaline N-methyltransferase",
+      "D": "tyrosine decarboxylase"
     }
   },
   {
@@ -622,10 +622,10 @@
       "pictures/A0A385XI11/A0A385XI11_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.1.1.336 | UDP-N-acetyl-D-mannosamine dehydrogenase",
-      "B": "1.1.1.195 | cinnamyl-alcohol dehydrogenase",
-      "C": "1.1.1.122 | L-arabinitol 4-dehydrogenase",
-      "D": "1.1.1.12 | L-arabinitol 4-dehydrogenase"
+      "A": "L-arabinitol 4-dehydrogenase",
+      "B": "3-oxoadipate:acetyl-CoA acetyltransferase",
+      "C": "3,5-dioxohexanoate:acetyl-CoA acetone transferase",
+      "D": "norajmaline N-methyltransferase"
     }
   },
   {
@@ -639,10 +639,10 @@
       "pictures/Q7K6A5/Q7K6A5_right.png"
     ],
     "Multiple Choices": {
-      "A": "6.3.5.1 | NAD+ synthase (glutamine-hydrolysing)",
-      "B": "6.3.2.35 | D-alanine-D-serine ligase",
-      "C": "7.6.2.2 | ABC-type xenobiotic transporter",
-      "D": "5.4.99.14 | ABC-type xenobiotic transporter"
+      "A": "ABC-type xenobiotic transporter",
+      "B": "stachydrine N-demethylase",
+      "C": "phospholipase A2",
+      "D": "vinorine hydroxylase"
     }
   },
   {
@@ -656,10 +656,10 @@
       "pictures/Q9VBV8/Q9VBV8_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.4.1.259 | dolichyl-P-Man:Man6GlcNAc2-PP-dolichol alpha-1,2-mannosyltransferase",
-      "B": "2.4.1.392 | 3-O-beta-D-glucopyranosyl-beta-D-glucuronide phosphorylase",
-      "C": "2.4.1.391 | dolichyl-P-Man:Man6GlcNAc2-PP-dolichol alpha-1,2-mannosyltransferase",
-      "D": "2.4.2.14 | amidophosphoribosyltransferase"
+      "A": "pseudouridylate synthase",
+      "B": "3,5-dioxohexanoate:acetyl-CoA acetone transferase",
+      "C": "dolichyl-P-Man:Man6GlcNAc2-PP-dolichol alpha-1,2-mannosyltransferase",
+      "D": "1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase"
     }
   },
   {
@@ -673,10 +673,10 @@
       "pictures/B8NLZ3/B8NLZ3_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.1.3.2 | acid phosphatase",
-      "B": "3.1.1.4 | phospholipase A2",
-      "C": "3.1.3.16 | protein-serine/threonine phosphatase",
-      "D": "3.1.3.112 | protein-serine/threonine phosphatase"
+      "A": "tyramine N-methyltransferase",
+      "B": "1'-carboxy-chondrochloren decarboxylase",
+      "C": "protein-serine/threonine phosphatase",
+      "D": "histidine racemase"
     }
   },
   {
@@ -690,10 +690,10 @@
       "pictures/Q8IBI5/Q8IBI5_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.8.1.11 | cysteine desulfurase",
-      "B": "2.8.1.7 | cysteine desulfurase",
-      "C": "2.7.11.24 | mitogen-activated protein kinase",
-      "D": "2.7.11.1 | non-specific serine/threonine protein kinase"
+      "A": "alpha-glucosidase",
+      "B": "cysteine desulfurase",
+      "C": "beta-1,2-glucosyltransferase",
+      "D": "pseudouridylate synthase"
     }
   },
   {
@@ -707,10 +707,10 @@
       "pictures/A0A384K474/A0A384K474_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.2.1.105 | 3alpha(S)-strictosidine beta-glucosidase",
-      "B": "3.2.1.18 | exo-alpha-sialidase",
-      "C": "3.2.1.8 | endo-1,4-beta-xylanase",
-      "D": "3.2.1.20 | endo-1,4-beta-xylanase"
+      "A": "threonine synthase",
+      "B": "dimethylamine monooxygenase",
+      "C": "UDP-N-acetyl-alpha-D-glucosaminuronate decarboxylase",
+      "D": "endo-1,4-beta-xylanase"
     }
   },
   {
@@ -724,10 +724,10 @@
       "pictures/Q9L391/Q9L391_right.png"
     ],
     "Multiple Choices": {
-      "A": "4.3.1.24 | phenylalanine ammonia-lyase",
-      "B": "4.3.3.9 | indigoidine synthase",
-      "C": "4.2.3.1 | threonine synthase",
-      "D": "4.3.1.12 | indigoidine synthase"
+      "A": "methionine gamma-lyase",
+      "B": "indigoidine synthase",
+      "C": "Subtilisin",
+      "D": "akuammiline synthase"
     }
   },
   {
@@ -741,10 +741,10 @@
       "pictures/B7R4L8/B7R4L8_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.3.1.319 | 3,5-dioxohexanoate:acetyl-CoA acetone transferase",
-      "B": "2.3.1.312 | D-glutamate N-acetyltransferase",
-      "C": "2.3.1.193 | tRNAMet cytidine acetyltransferase",
-      "D": "2.3.1.322 | tRNAMet cytidine acetyltransferase"
+      "A": "non-reducing end alpha-L-arabinofuranosidase",
+      "B": "4'-phospho-dehydrooxetanocin synthase",
+      "C": "3alpha(S)-strictosidine beta-glucosidase",
+      "D": "tRNAMet cytidine acetyltransferase"
     }
   },
   {
@@ -758,10 +758,10 @@
       "pictures/Q9W2W5/Q9W2W5_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.2.2.5 | NAD+ glycohydrolase",
-      "B": "3.2.2.27 | [protein ADP-ribosylarginine] hydrolase",
-      "C": "3.2.1.8 | endo-1,4-beta-xylanase",
-      "D": "3.2.2.19 | [protein ADP-ribosylarginine] hydrolase"
+      "A": "3-O-beta-D-glucopyranosyl-beta-D-glucuronide phosphorylase",
+      "B": "[protein ADP-ribosylarginine] hydrolase",
+      "C": "vinorine hydroxylase",
+      "D": "N-acylneuraminate cytidylyltransferase"
     }
   },
   {
@@ -775,10 +775,10 @@
       "pictures/Q9L393/Q9L393_right.png"
     ],
     "Multiple Choices": {
-      "A": "4.2.1.18 | methylglutaconyl-CoA hydratase",
-      "B": "4.2.1.9 | dihydroxy-acid dehydratase",
-      "C": "4.2.1.183 | pseudouridylate synthase",
-      "D": "4.2.1.70 | pseudouridylate synthase"
+      "A": "peptidyl-tRNA hydrolase",
+      "B": "1'-carboxy-chondrochloren decarboxylase",
+      "C": "pseudouridylate synthase",
+      "D": "mannitol-1-phosphate 5-dehydrogenase"
     }
   },
   {
@@ -792,10 +792,10 @@
       "pictures/D8QZ31/D8QZ31_right.png"
     ],
     "Multiple Choices": {
-      "A": "4.2.1.70 | pseudouridylate synthase",
-      "B": "4.2.1.9 | dihydroxy-acid dehydratase",
-      "C": "4.2.1.18 | etheroleic acid synthase",
-      "D": "4.2.1.183 | etheroleic acid synthase"
+      "A": "3,5-dioxohexanoate:acetyl-CoA acetone transferase",
+      "B": "glycine hydroxymethyltransferase",
+      "C": "etheroleic acid synthase",
+      "D": "1'-carboxy-chondrochloren decarboxylase"
     }
   },
   {
@@ -809,10 +809,10 @@
       "pictures/A0A1B5KW97/A0A1B5KW97_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.7.13.3 | histidine kinase",
-      "B": "2.7.11.11 | cAMP-dependent protein kinase",
-      "C": "2.7.11.24 | mitogen-activated protein kinase",
-      "D": "2.7.11.1 | mitogen-activated protein kinase"
+      "A": "dTMP kinase",
+      "B": "cardiolipin synthase (CMP-forming)",
+      "C": "mitogen-activated protein kinase",
+      "D": "D-threo-aldose 1-dehydrogenase"
     }
   },
   {
@@ -826,10 +826,10 @@
       "pictures/C6KT66/C6KT66_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.5.1.32 | FMN reductase (NADPH)",
-      "B": "1.6.5.2 | NAD(P)H dehydrogenase (quinone)",
-      "C": "1.3.1.36 | geissoschizine dehydrogenase",
-      "D": "1.5.1.38 | FMN reductase (NADPH)"
+      "A": "DNA 3'-5' helicase",
+      "B": "FMN reductase (NADPH)",
+      "C": "NAD+ glycohydrolase",
+      "D": "pseudouridylate synthase"
     }
   },
   {
@@ -843,10 +843,10 @@
       "pictures/B9ZUK6/B9ZUK6_right.png"
     ],
     "Multiple Choices": {
-      "A": "4.1.1.128 | UDP-N-acetyl-alpha-D-glucosaminuronate decarboxylase",
-      "B": "4.1.1.25 | tyrosine decarboxylase",
-      "C": "4.1.1.129 | 1'-carboxy-chondrochloren decarboxylase",
-      "D": "4.1.1.36 | 1'-carboxy-chondrochloren decarboxylase"
+      "A": "dTMP kinase",
+      "B": "1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase",
+      "C": "1'-carboxy-chondrochloren decarboxylase",
+      "D": "aspartate-semialdehyde dehydrogenase"
     }
   },
   {
@@ -860,10 +860,10 @@
       "pictures/Q98500/Q98500_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.6.1.5 | mRNA 5'-phosphatase",
-      "B": "3.5.2.6 | beta-lactamase",
-      "C": "3.6.1.74 | mRNA 5'-phosphatase",
-      "D": "3.4.21.62 | Subtilisin"
+      "A": "FMN reductase (NADPH)",
+      "B": "mRNA 5'-phosphatase",
+      "C": "mannitol 2-dehydrogenase (NADP+)",
+      "D": "mannose-6-phosphate isomerase"
     }
   },
   {
@@ -877,10 +877,10 @@
       "pictures/A0AA51VIL5/A0AA51VIL5_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.1.1.395 | 7'-O-demethylcephaeline methyltransferase",
-      "B": "2.1.1.27 | tyramine N-methyltransferase",
-      "C": "2.1.1.393 | ajmaline N-methyltransferase",
-      "D": "2.1.1.353 | tyramine N-methyltransferase"
+      "A": "3,5-dioxohexanoate:acetyl-CoA acetone transferase",
+      "B": "tyramine N-methyltransferase",
+      "C": "histidine racemase",
+      "D": "microtubule-severing ATPase"
     }
   },
   {
@@ -894,10 +894,10 @@
       "pictures/A0A0F7TWW9/A0A0F7TWW9_right.png"
     ],
     "Multiple Choices": {
-      "A": "4.2.1.9 | dihydroxy-acid dehydratase",
-      "B": "4.2.1.18 | methylglutaconyl-CoA hydratase",
-      "C": "4.2.1.183 | etheroleic acid synthase",
-      "D": "4.2.1.70 | dihydroxy-acid dehydratase"
+      "A": "norajmaline N-methyltransferase",
+      "B": "alpha-glucosidase",
+      "C": "cardiolipin synthase (CMP-forming)",
+      "D": "dihydroxy-acid dehydratase"
     }
   },
   {
@@ -911,10 +911,10 @@
       "pictures/G7LCC3/G7LCC3_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.7.13.3 | histidine kinase",
-      "B": "2.7.11.1 | non-specific serine/threonine protein kinase",
-      "C": "2.7.11.24 | mitogen-activated protein kinase",
-      "D": "2.7.11.11 | histidine kinase"
+      "A": "histidine kinase",
+      "B": "DNA 3'-5' helicase",
+      "C": "acid phosphatase",
+      "D": "selenate reductase (quinol)"
     }
   },
   {
@@ -928,10 +928,10 @@
       "pictures/P0DXU5/P0DXU5_right.png"
     ],
     "Multiple Choices": {
-      "A": "7.6.2.2 | ABC-type xenobiotic transporter",
-      "B": "5.4.99.14 | 4-carboxymethyl-4-methylbutenolide mutase",
-      "C": "6.3.2.35 | D-alanine-D-serine ligase",
-      "D": "6.3.5.1 | ABC-type xenobiotic transporter"
+      "A": "peptidyl-tRNA hydrolase",
+      "B": "ABC-type xenobiotic transporter",
+      "C": "2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase",
+      "D": "DNA 3'-5' helicase"
     }
   },
   {
@@ -945,10 +945,10 @@
       "pictures/A0A223HDH4/A0A223HDH4_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.1.1.17 | mannitol-1-phosphate 5-dehydrogenase",
-      "B": "1.1.1.336 | UDP-N-acetyl-D-mannosamine dehydrogenase",
-      "C": "1.1.1.122 | D-threo-aldose 1-dehydrogenase",
-      "D": "1.1.1.195 | mannitol-1-phosphate 5-dehydrogenase"
+      "A": "microtubule-severing ATPase",
+      "B": "homoserine kinase",
+      "C": "stachydrine N-demethylase",
+      "D": "mannitol-1-phosphate 5-dehydrogenase"
     }
   },
   {
@@ -962,10 +962,10 @@
       "pictures/D5RFM4/D5RFM4_right.png"
     ],
     "Multiple Choices": {
-      "A": "5.1.1.24 | histidine racemase",
-      "B": "5.1.3.14 | UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)",
-      "C": "5.1.1.25 | histidine racemase",
-      "D": "5.1.3.45 | UDP-N-acetyl-alpha-D-glucosaminouronate 4-epimerase"
+      "A": "histidine racemase",
+      "B": "indigoidine synthase",
+      "C": "1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase",
+      "D": "UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)"
     }
   },
   {
@@ -979,10 +979,10 @@
       "pictures/A0A179UL48/A0A179UL48_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.2.1.11 | aspartate-semialdehyde dehydrogenase",
-      "B": "1.2.1.46 | formaldehyde dehydrogenase",
-      "C": "1.1.1.336 | UDP-N-acetyl-D-mannosamine dehydrogenase",
-      "D": "1.2.1.101 | aspartate-semialdehyde dehydrogenase"
+      "A": "holo-[acyl-carrier-protein] synthase",
+      "B": "homoserine O-acetyltransferase",
+      "C": "betaine-homocysteine S-methyltransferase",
+      "D": "aspartate-semialdehyde dehydrogenase"
     }
   },
   {
@@ -996,10 +996,10 @@
       "pictures/P0DXZ0/P0DXZ0_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.2.1.46 | formaldehyde dehydrogenase",
-      "B": "1.1.1.336 | UDP-N-acetyl-D-mannosamine dehydrogenase",
-      "C": "1.2.1.101 | L-tyrosine reductase",
-      "D": "1.2.1.11 | formaldehyde dehydrogenase"
+      "A": "formaldehyde dehydrogenase",
+      "B": "DNA-(apurinic or apyrimidinic site) lyase",
+      "C": "Togavirin",
+      "D": "ribonuclease III"
     }
   },
   {
@@ -1013,10 +1013,10 @@
       "pictures/A3MTR6/A3MTR6_right.png"
     ],
     "Multiple Choices": {
-      "A": "5.3.99.13 | 4'-phospho-dehydrooxetanocin synthase",
-      "B": "5.3.3.21 | DELTA3,5-DELTA2,4-dienoyl-CoA isomerase",
-      "C": "5.3.1.8 | mannose-6-phosphate isomerase",
-      "D": "5.3.1.16 | mannose-6-phosphate isomerase"
+      "A": "mannose-6-phosphate isomerase",
+      "B": "cinnamyl-alcohol dehydrogenase",
+      "C": "N-acylneuraminate cytidylyltransferase",
+      "D": "dihydropteroate synthase"
     }
   },
   {
@@ -1030,10 +1030,10 @@
       "pictures/C6SZ50/C6SZ50_right.png"
     ],
     "Multiple Choices": {
-      "A": "4.1.1.129 | 1'-carboxy-chondrochloren decarboxylase",
-      "B": "4.1.1.25 | tyrosine decarboxylase",
-      "C": "4.1.1.128 | phosphopantothenoylcysteine decarboxylase",
-      "D": "4.1.1.36 | phosphopantothenoylcysteine decarboxylase"
+      "A": "UDP-N-acetyl-alpha-D-glucosaminouronate 4-epimerase",
+      "B": "exo-alpha-sialidase",
+      "C": "cardiolipin synthase (CMP-forming)",
+      "D": "phosphopantothenoylcysteine decarboxylase"
     }
   },
   {
@@ -1047,10 +1047,10 @@
       "pictures/P0DY07/P0DY07_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.7.7.88 | GDP polyribonucleotidyltransferase",
-      "B": "2.7.7.43 | N-acylneuraminate cytidylyltransferase",
-      "C": "2.7.7.80 | molybdopterin-synthase adenylyltransferase",
-      "D": "2.7.7.1 | N-acylneuraminate cytidylyltransferase"
+      "A": "lipid A phosphoethanolamine transferase",
+      "B": "N-acylneuraminate cytidylyltransferase",
+      "C": "dihydroxy-acid dehydratase",
+      "D": "DELTA3,5-DELTA2,4-dienoyl-CoA isomerase"
     }
   },
   {
@@ -1064,10 +1064,10 @@
       "pictures/A0A7G5KET3/A0A7G5KET3_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.7.1.39 | homoserine kinase",
-      "B": "2.7.2.4 | phosphoglycerate kinase",
-      "C": "2.7.1.52 | fucokinase",
-      "D": "2.7.2.3 | phosphoglycerate kinase"
+      "A": "mRNA m6A methyltransferase",
+      "B": "NAD+ synthase (glutamine-hydrolysing)",
+      "C": "phosphoglycerate kinase",
+      "D": "etheroleic acid synthase"
     }
   },
   {
@@ -1081,10 +1081,10 @@
       "pictures/A0A0U3AB61/A0A0U3AB61_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.1.1.122 | D-threo-aldose 1-dehydrogenase",
-      "B": "1.1.1.336 | UDP-N-acetyl-D-mannosamine dehydrogenase",
-      "C": "1.1.1.195 | cinnamyl-alcohol dehydrogenase",
-      "D": "1.1.1.1 | UDP-N-acetyl-D-mannosamine dehydrogenase"
+      "A": "3,5-dioxohexanoate:acetyl-CoA acetone transferase",
+      "B": "apyrase",
+      "C": "mannitol 2-dehydrogenase (NADP+)",
+      "D": "UDP-N-acetyl-D-mannosamine dehydrogenase"
     }
   },
   {
@@ -1098,10 +1098,10 @@
       "pictures/Q4WWR8/Q4WWR8_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.2.1.46 | formaldehyde dehydrogenase",
-      "B": "1.1.1.336 | UDP-N-acetyl-D-mannosamine dehydrogenase",
-      "C": "1.2.1.101 | aspartate-semialdehyde dehydrogenase",
-      "D": "1.2.1.11 | aspartate-semialdehyde dehydrogenase"
+      "A": "cinnamyl-alcohol dehydrogenase",
+      "B": "homoserine kinase",
+      "C": "L-tyrosine reductase",
+      "D": "aspartate-semialdehyde dehydrogenase"
     }
   },
   {
@@ -1115,10 +1115,10 @@
       "pictures/A0A9E7LUR3/A0A9E7LUR3_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.3.1.73 | geissoschizine dehydrogenase",
-      "B": "1.2.1.46 | formaldehyde dehydrogenase",
-      "C": "1.2.1.11 | aspartate-semialdehyde dehydrogenase",
-      "D": "1.3.1.36 | geissoschizine dehydrogenase"
+      "A": "apyrase",
+      "B": "ajmaline N-methyltransferase",
+      "C": "7'-O-demethylcephaeline methyltransferase",
+      "D": "geissoschizine dehydrogenase"
     }
   },
   {
@@ -1132,10 +1132,10 @@
       "pictures/A1ZB29/A1ZB29_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.7.2.4 | aspartate kinase",
-      "B": "2.7.2.3 | phosphoglycerate kinase",
-      "C": "2.7.4.9 | dTMP kinase",
-      "D": "2.7.1.39 | dTMP kinase"
+      "A": "beta-1,2-glucosyltransferase",
+      "B": "apyrase",
+      "C": "nicotinamide-nucleotide adenylyltransferase",
+      "D": "dTMP kinase"
     }
   },
   {
@@ -1149,10 +1149,10 @@
       "pictures/Q3J189/Q3J189_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.14.14.126 | beta-amyrin 28-monooxygenase",
-      "B": "1.14.15.37 | spheroidene monooxygenase",
-      "C": "1.14.15.9 | spheroidene monooxygenase",
-      "D": "1.14.14.154 | sterol 14alpha-demethylase"
+      "A": "UDP-N-acetylglucosamine 2-epimerase (hydrolysing)",
+      "B": "cinnamyl-alcohol dehydrogenase",
+      "C": "spheroidene monooxygenase",
+      "D": "mitogen-activated protein kinase"
     }
   },
   {
@@ -1166,10 +1166,10 @@
       "pictures/Q9KZP3/Q9KZP3_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.7.8.7 | holo-[acyl-carrier-protein] synthase",
-      "B": "2.7.8.43 | cardiolipin synthase (CMP-forming)",
-      "C": "2.7.8.41 | cardiolipin synthase (CMP-forming)",
-      "D": "2.7.7.43 | N-acylneuraminate cytidylyltransferase"
+      "A": "cardiolipin synthase (CMP-forming)",
+      "B": "plant cystathionine gamma-synthase",
+      "C": "stachydrine N-demethylase",
+      "D": "cysteate synthase"
     }
   },
   {
@@ -1183,10 +1183,10 @@
       "pictures/A0A1C3NEV1/A0A1C3NEV1_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.7.8.43 | lipid A phosphoethanolamine transferase",
-      "B": "2.7.8.41 | cardiolipin synthase (CMP-forming)",
-      "C": "2.7.8.7 | lipid A phosphoethanolamine transferase",
-      "D": "2.7.7.43 | N-acylneuraminate cytidylyltransferase"
+      "A": "dihydropteroate synthase",
+      "B": "lipid A phosphoethanolamine transferase",
+      "C": "1'-carboxy-chondrochloren decarboxylase",
+      "D": "tyramine N-methyltransferase"
     }
   },
   {
@@ -1200,10 +1200,10 @@
       "pictures/Q5JHC6/Q5JHC6_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.3.1.322 | akuammiline synthase",
-      "B": "2.3.1.319 | 3,5-dioxohexanoate:acetyl-CoA acetone transferase",
-      "C": "2.3.1.312 | tRNAMet cytidine acetyltransferase",
-      "D": "2.3.1.193 | tRNAMet cytidine acetyltransferase"
+      "A": "tRNAMet cytidine acetyltransferase",
+      "B": "endo-1,4-beta-xylanase",
+      "C": "UDP-N-acetyl-D-mannosamine dehydrogenase",
+      "D": "cysteate synthase"
     }
   },
   {
@@ -1217,10 +1217,10 @@
       "pictures/Q70KH3/Q70KH3_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.1.1.395 | 7'-O-demethylcephaeline methyltransferase",
-      "B": "2.1.1.353 | demethylluteothin O-methyltransferase",
-      "C": "2.1.1.393 | ajmaline N-methyltransferase",
-      "D": "2.1.1.27 | demethylluteothin O-methyltransferase"
+      "A": "tRNA (guanosine18-2'-O)-methyltransferase",
+      "B": "spheroidene monooxygenase",
+      "C": "demethylluteothin O-methyltransferase",
+      "D": "glycine hydroxymethyltransferase"
     }
   },
   {
@@ -1234,10 +1234,10 @@
       "pictures/G7IFI7/G7IFI7_right.png"
     ],
     "Multiple Choices": {
-      "A": "5.3.1.8 | mannose-6-phosphate isomerase",
-      "B": "5.3.1.16 | 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase",
-      "C": "5.3.1.9 | 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase",
-      "D": "5.3.3.21 | DELTA3,5-DELTA2,4-dienoyl-CoA isomerase"
+      "A": "1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase",
+      "B": "dTMP kinase",
+      "C": "mRNA m6A methyltransferase",
+      "D": "mRNA N6-methyladenine demethylase"
     }
   },
   {
@@ -1251,10 +1251,10 @@
       "pictures/C6TA59/C6TA59_right.png"
     ],
     "Multiple Choices": {
-      "A": "4.1.1.128 | UDP-N-acetyl-alpha-D-glucosaminuronate decarboxylase",
-      "B": "4.1.1.36 | phosphopantothenoylcysteine decarboxylase",
-      "C": "4.1.1.25 | tyrosine decarboxylase",
-      "D": "4.1.1.129 | phosphopantothenoylcysteine decarboxylase"
+      "A": "rhazimal synthase",
+      "B": "UDP-N-acetylglucosamine 6-dehydrogenase",
+      "C": "phosphopantothenoylcysteine decarboxylase",
+      "D": "apyrase"
     }
   },
   {
@@ -1268,10 +1268,10 @@
       "pictures/A0A482PJF5/A0A482PJF5_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.3.1.319 | 3,5-dioxohexanoate:acetyl-CoA acetone transferase",
-      "B": "2.3.1.322 | akuammiline synthase",
-      "C": "2.3.1.193 | RING-type E3 ubiquitin transferase",
-      "D": "2.3.2.27 | RING-type E3 ubiquitin transferase"
+      "A": "[protein ADP-ribosylarginine] hydrolase",
+      "B": "RING-type E3 ubiquitin transferase",
+      "C": "UDP-N-acetyl-D-mannosamine dehydrogenase",
+      "D": "threonine synthase"
     }
   },
   {
@@ -1285,10 +1285,10 @@
       "pictures/C7M8J5/C7M8J5_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.5.1.160 | plant cystathionine gamma-synthase",
-      "B": "2.5.1.15 | dihydropteroate synthase",
-      "C": "2.5.1.56 | cysteate synthase",
-      "D": "2.5.1.76 | cysteate synthase"
+      "A": "4'-phospho-dehydrooxetanocin synthase",
+      "B": "non-specific serine/threonine protein kinase",
+      "C": "N-acetylneuraminate synthase",
+      "D": "cysteate synthase"
     }
   },
   {
@@ -1302,10 +1302,10 @@
       "pictures/C5MR76/C5MR76_right.png"
     ],
     "Multiple Choices": {
-      "A": "5.3.1.16 | 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase",
-      "B": "5.4.99.14 | 4-carboxymethyl-4-methylbutenolide mutase",
-      "C": "5.3.1.8 | mannose-6-phosphate isomerase",
-      "D": "5.4.99.39 | 4-carboxymethyl-4-methylbutenolide mutase"
+      "A": "rhazimal synthase",
+      "B": "N-acetylneuraminate synthase",
+      "C": "4-carboxymethyl-4-methylbutenolide mutase",
+      "D": "luteothin monooxygenase"
     }
   },
   {
@@ -1319,10 +1319,10 @@
       "pictures/A0A7U2MSD6/A0A7U2MSD6_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.1.3.112 | 4'-phosphooxetanocin A phosphatase",
-      "B": "3.1.1.4 | phospholipase A2",
-      "C": "3.1.3.2 | protein-serine/threonine phosphatase",
-      "D": "3.1.3.16 | protein-serine/threonine phosphatase"
+      "A": "3,5-dioxohexanoate:acetyl-CoA acetone transferase",
+      "B": "protein-serine/threonine phosphatase",
+      "C": "methylglutaconyl-CoA hydratase",
+      "D": "nicotinamide phosphoribosyltransferase"
     }
   },
   {
@@ -1336,10 +1336,10 @@
       "pictures/A0AA51VIL7/A0AA51VIL7_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.1.1.353 | demethylluteothin O-methyltransferase",
-      "B": "2.1.1.395 | 7'-O-demethylcephaeline methyltransferase",
-      "C": "2.1.1.27 | tyramine N-methyltransferase",
-      "D": "2.1.1.393 | tyramine N-methyltransferase"
+      "A": "4-carboxymethyl-4-methylbutenolide mutase",
+      "B": "tyramine N-methyltransferase",
+      "C": "cysteate synthase",
+      "D": "beta-lactamase"
     }
   },
   {
@@ -1353,10 +1353,10 @@
       "pictures/A0A0U3CEN8/A0A0U3CEN8_right.png"
     ],
     "Multiple Choices": {
-      "A": "5.1.1.24 | histidine racemase",
-      "B": "5.1.3.45 | UDP-N-acetyl-alpha-D-glucosaminouronate 4-epimerase",
-      "C": "5.1.3.14 | UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)",
-      "D": "5.1.3.7 | UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)"
+      "A": "phospholipase A2",
+      "B": "methionine gamma-lyase",
+      "C": "UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)",
+      "D": "UDP-N-acetyl-D-mannosamine dehydrogenase"
     }
   },
   {
@@ -1370,10 +1370,10 @@
       "pictures/A0A482PUS2/A0A482PUS2_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.3.1.193 | tRNAMet cytidine acetyltransferase",
-      "B": "2.3.2.27 | RING-type E3 ubiquitin transferase",
-      "C": "2.3.1.319 | 3,5-dioxohexanoate:acetyl-CoA acetone transferase",
-      "D": "2.3.1.322 | RING-type E3 ubiquitin transferase"
+      "A": "ornithine cyclodeaminase",
+      "B": "RING-type E3 ubiquitin transferase",
+      "C": "3alpha(S)-strictosidine beta-glucosidase",
+      "D": "etheroleic acid synthase"
     }
   },
   {
@@ -1387,10 +1387,10 @@
       "pictures/Q9ZPL5/Q9ZPL5_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.5.1.56 | N-acetylneuraminate synthase",
-      "B": "2.5.1.76 | cysteate synthase",
-      "C": "2.5.1.160 | plant cystathionine gamma-synthase",
-      "D": "2.5.1.15 | plant cystathionine gamma-synthase"
+      "A": "3-O-beta-D-glucopyranosyl-beta-D-glucuronide phosphorylase",
+      "B": "plant cystathionine gamma-synthase",
+      "C": "sterol 14alpha-demethylase",
+      "D": "[histone H3]-dimethyl-L-lysine9 demethylase"
     }
   },
   {
@@ -1404,10 +1404,10 @@
       "pictures/P0DXZ1/P0DXZ1_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.3.1.193 | tRNAMet cytidine acetyltransferase",
-      "B": "2.3.1.322 | akuammiline synthase",
-      "C": "2.3.1.312 | D-glutamate N-acetyltransferase",
-      "D": "2.3.1.319 | D-glutamate N-acetyltransferase"
+      "A": "ajmaline N-methyltransferase",
+      "B": "D-glutamate N-acetyltransferase",
+      "C": "peptidylprolyl isomerase",
+      "D": "rhazimal synthase"
     }
   },
   {
@@ -1421,10 +1421,10 @@
       "pictures/I0AIT9/I0AIT9_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.4.1.261 | dolichyl-P-Man:Man8GlcNAc2-PP-dolichol alpha-1,2-mannosyltransferase",
-      "B": "2.4.1.259 | dolichyl-P-Man:Man6GlcNAc2-PP-dolichol alpha-1,2-mannosyltransferase",
-      "C": "2.4.1.392 | beta-1,2-glucosyltransferase",
-      "D": "2.4.1.391 | beta-1,2-glucosyltransferase"
+      "A": "endo-1,4-beta-xylanase",
+      "B": "beta-1,2-glucosyltransferase",
+      "C": "cysteine desulfurase",
+      "D": "beta-lactamase"
     }
   },
   {
@@ -1438,10 +1438,10 @@
       "pictures/P0DY06/P0DY06_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.5.1.76 | cysteate synthase",
-      "B": "2.5.1.160 | plant cystathionine gamma-synthase",
-      "C": "2.5.1.56 | N-acetylneuraminate synthase",
-      "D": "2.5.1.15 | N-acetylneuraminate synthase"
+      "A": "mitogen-activated protein kinase",
+      "B": "D-glutamate N-acetyltransferase",
+      "C": "N-acetylneuraminate synthase",
+      "D": "N-acylneuraminate cytidylyltransferase"
     }
   },
   {
@@ -1455,10 +1455,10 @@
       "pictures/A0AA51Z3J4/A0AA51Z3J4_right.png"
     ],
     "Multiple Choices": {
-      "A": "4.1.1.36 | phosphopantothenoylcysteine decarboxylase",
-      "B": "4.1.1.129 | 1'-carboxy-chondrochloren decarboxylase",
-      "C": "4.1.1.25 | tyrosine decarboxylase",
-      "D": "4.1.1.128 | tyrosine decarboxylase"
+      "A": "acid phosphatase",
+      "B": "dTMP kinase",
+      "C": "tyrosine decarboxylase",
+      "D": "alpha-glucosidase"
     }
   },
   {
@@ -1472,10 +1472,10 @@
       "pictures/Q8QV65/Q8QV65_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.2.1.20 | alpha-glucosidase",
-      "B": "3.2.1.8 | endo-1,4-beta-xylanase",
-      "C": "3.2.1.105 | exo-alpha-sialidase",
-      "D": "3.2.1.18 | exo-alpha-sialidase"
+      "A": "(19E)-geissoschizine oxidase",
+      "B": "exo-alpha-sialidase",
+      "C": "etheroleic acid synthase",
+      "D": "threonine synthase"
     }
   },
   {
@@ -1489,10 +1489,10 @@
       "pictures/B4ER92/B4ER92_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.3.1.319 | 3,5-dioxohexanoate:acetyl-CoA acetone transferase",
-      "B": "2.3.1.322 | akuammiline synthase",
-      "C": "2.3.1.193 | spectinabilin polyketide synthase system",
-      "D": "2.3.1.290 | spectinabilin polyketide synthase system"
+      "A": "beta-glucuronidase",
+      "B": "4-carboxymethyl-4-methylbutenolide mutase",
+      "C": "spheroidene monooxygenase",
+      "D": "spectinabilin polyketide synthase system"
     }
   },
   {
@@ -1506,10 +1506,10 @@
       "pictures/A0A0H2X6L3/A0A0H2X6L3_right.png"
     ],
     "Multiple Choices": {
-      "A": "5.6.2.4 | DNA 3'-5' helicase",
-      "B": "6.3.5.1 | NAD+ synthase (glutamine-hydrolysing)",
-      "C": "6.3.2.35 | NAD+ synthase (glutamine-hydrolysing)",
-      "D": "5.4.99.14 | 4-carboxymethyl-4-methylbutenolide mutase"
+      "A": "tRNAMet cytidine acetyltransferase",
+      "B": "(19E)-geissoschizine oxidase",
+      "C": "NAD+ synthase (glutamine-hydrolysing)",
+      "D": "mannitol 2-dehydrogenase (NADP+)"
     }
   },
   {
@@ -1523,10 +1523,10 @@
       "pictures/Q9VC03/Q9VC03_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.7.7.43 | N-acylneuraminate cytidylyltransferase",
-      "B": "2.7.7.80 | molybdopterin-synthase adenylyltransferase",
-      "C": "2.7.7.88 | nicotinamide-nucleotide adenylyltransferase",
-      "D": "2.7.7.1 | nicotinamide-nucleotide adenylyltransferase"
+      "A": "nicotinamide-nucleotide adenylyltransferase",
+      "B": "fucokinase",
+      "C": "UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)",
+      "D": "acid phosphatase"
     }
   },
   {
@@ -1540,10 +1540,10 @@
       "pictures/G0S1P8/G0S1P8_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.14.14.154 | sterol 14alpha-demethylase",
-      "B": "1.11.1.24 | thioredoxin-dependent peroxiredoxin",
-      "C": "1.14.15.9 | spheroidene monooxygenase",
-      "D": "1.14.19.80 | thioredoxin-dependent peroxiredoxin"
+      "A": "UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)",
+      "B": "norajmaline N-methyltransferase",
+      "C": "thioredoxin-dependent peroxiredoxin",
+      "D": "3alpha(S)-strictosidine beta-glucosidase"
     }
   },
   {
@@ -1557,10 +1557,10 @@
       "pictures/A0A089MMR2/A0A089MMR2_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.4.1.259 | dolichyl-P-Man:Man6GlcNAc2-PP-dolichol alpha-1,2-mannosyltransferase",
-      "B": "2.4.1.391 | beta-1,2-glucosyltransferase",
-      "C": "2.4.1.392 | 3-O-beta-D-glucopyranosyl-beta-D-glucuronide phosphorylase",
-      "D": "2.4.1.261 | 3-O-beta-D-glucopyranosyl-beta-D-glucuronide phosphorylase"
+      "A": "3-O-beta-D-glucopyranosyl-beta-D-glucuronide phosphorylase",
+      "B": "norajmaline N-methyltransferase",
+      "C": "formaldehyde dehydrogenase",
+      "D": "nicotinamide-nucleotide adenylyltransferase"
     }
   },
   {
@@ -1574,10 +1574,10 @@
       "pictures/E9Q3D4/E9Q3D4_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.1.1.195 | cinnamyl-alcohol dehydrogenase",
-      "B": "1.1.1.1 | alcohol dehydrogenase",
-      "C": "1.1.1.122 | D-threo-aldose 1-dehydrogenase",
-      "D": "1.1.1.336 | D-threo-aldose 1-dehydrogenase"
+      "A": "3,5-dioxohexanoate:acetyl-CoA acetone transferase",
+      "B": "D-threo-aldose 1-dehydrogenase",
+      "C": "UDP-N-acetyl-alpha-D-glucosaminuronate decarboxylase",
+      "D": "thioredoxin-dependent peroxiredoxin"
     }
   },
   {
@@ -1591,10 +1591,10 @@
       "pictures/Q83XP3/Q83XP3_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.1.1.393 | ajmaline N-methyltransferase",
-      "B": "2.1.1.27 | tyramine N-methyltransferase",
-      "C": "2.1.1.394 | 2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase",
-      "D": "2.1.1.395 | 2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase"
+      "A": "2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase",
+      "B": "endo-1,4-beta-xylanase",
+      "C": "phospholipase A2",
+      "D": "histidine kinase"
     }
   },
   {
@@ -1608,10 +1608,10 @@
       "pictures/A0A7T8J1U7/A0A7T8J1U7_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.4.1.392 | 3-O-beta-D-glucopyranosyl-beta-D-glucuronide phosphorylase",
-      "B": "2.4.1.391 | beta-1,2-glucosyltransferase",
-      "C": "2.4.2.14 | amidophosphoribosyltransferase",
-      "D": "2.4.2.12 | amidophosphoribosyltransferase"
+      "A": "luteothin monooxygenase",
+      "B": "methionine gamma-lyase",
+      "C": "amidophosphoribosyltransferase",
+      "D": "ornithine cyclodeaminase"
     }
   },
   {
@@ -1625,10 +1625,10 @@
       "pictures/A0A261GVB1/A0A261GVB1_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.14.19.80 | (19E)-geissoschizine oxidase",
-      "B": "1.14.15.37 | luteothin monooxygenase",
-      "C": "1.14.15.9 | tyrosinase",
-      "D": "1.14.18.1 | tyrosinase"
+      "A": "selenate reductase (quinol)",
+      "B": "tyrosinase",
+      "C": "mannitol 2-dehydrogenase (NADP+)",
+      "D": "beta-lactamase"
     }
   },
   {
@@ -1642,10 +1642,10 @@
       "pictures/Q9UVF9/Q9UVF9_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.2.1.20 | alpha-glucosidase",
-      "B": "3.2.1.8 | endo-1,4-beta-xylanase",
-      "C": "3.2.1.18 | exo-alpha-sialidase",
-      "D": "3.2.1.105 | endo-1,4-beta-xylanase"
+      "A": "endo-1,4-beta-xylanase",
+      "B": "alcohol dehydrogenase",
+      "C": "N-acetyl-D-glutamate racemase",
+      "D": "Togavirin"
     }
   },
   {
@@ -1659,10 +1659,10 @@
       "pictures/A0A1E3M8P2/A0A1E3M8P2_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.14.19.80 | (19E)-geissoschizine oxidase",
-      "B": "1.16.1.10 | ferric-chelate reductase [NAD(P)H]",
-      "C": "1.14.15.9 | spheroidene monooxygenase",
-      "D": "1.14.14.154 | ferric-chelate reductase [NAD(P)H]"
+      "A": "ferric-chelate reductase [NAD(P)H]",
+      "B": "1'-carboxy-chondrochloren decarboxylase",
+      "C": "apyrase",
+      "D": "phospholipase A2"
     }
   },
   {
@@ -1676,10 +1676,10 @@
       "pictures/P0DXZ6/P0DXZ6_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.1.1.4 | phospholipase A2",
-      "B": "3.1.3.16 | protein-serine/threonine phosphatase",
-      "C": "3.1.1.29 | peptidyl-tRNA hydrolase",
-      "D": "3.1.1.80 | phospholipase A2"
+      "A": "phospholipase A2",
+      "B": "endo-1,4-beta-xylanase",
+      "C": "vomilenine reductase",
+      "D": "beta-1,2-glucosyltransferase"
     }
   },
   {
@@ -1693,10 +1693,10 @@
       "pictures/A0AAW1L0L7/A0AAW1L0L7_right.png"
     ],
     "Multiple Choices": {
-      "A": "5.4.99.39 | beta-amyrin synthase",
-      "B": "5.4.99.14 | beta-amyrin synthase",
-      "C": "5.3.1.8 | mannose-6-phosphate isomerase",
-      "D": "5.3.1.16 | 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase"
+      "A": "tyrosinase",
+      "B": "exo-alpha-sialidase",
+      "C": "ajmaline N-methyltransferase",
+      "D": "beta-amyrin synthase"
     }
   },
   {
@@ -1710,10 +1710,10 @@
       "pictures/G4MSY9/G4MSY9_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.1.1.395 | 7'-O-demethylcephaeline methyltransferase",
-      "B": "2.1.1.348 | mRNA m6A methyltransferase",
-      "C": "2.1.1.393 | ajmaline N-methyltransferase",
-      "D": "2.1.1.27 | mRNA m6A methyltransferase"
+      "A": "4'-phosphooxetanocin A phosphatase",
+      "B": "UDP-N-acetylglucosamine 2-epimerase (hydrolysing)",
+      "C": "mRNA m6A methyltransferase",
+      "D": "holo-[acyl-carrier-protein] synthase"
     }
   },
   {
@@ -1727,10 +1727,10 @@
       "pictures/Q5ALM0/Q5ALM0_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.2.1.101 | L-tyrosine reductase",
-      "B": "1.1.1.336 | UDP-N-acetyl-D-mannosamine dehydrogenase",
-      "C": "1.2.1.11 | aspartate-semialdehyde dehydrogenase",
-      "D": "1.2.1.46 | aspartate-semialdehyde dehydrogenase"
+      "A": "2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase",
+      "B": "aspartate-semialdehyde dehydrogenase",
+      "C": "FMN reductase (NADPH)",
+      "D": "Subtilisin"
     }
   },
   {
@@ -1744,10 +1744,10 @@
       "pictures/K9GHZ3/K9GHZ3_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.2.1.105 | 3alpha(S)-strictosidine beta-glucosidase",
-      "B": "3.2.1.18 | exo-alpha-sialidase",
-      "C": "3.2.1.8 | endo-1,4-beta-xylanase",
-      "D": "3.2.1.20 | endo-1,4-beta-xylanase"
+      "A": "cinnamyl-alcohol dehydrogenase",
+      "B": "mRNA 5'-phosphatase",
+      "C": "formaldehyde dehydrogenase",
+      "D": "endo-1,4-beta-xylanase"
     }
   },
   {
@@ -1761,10 +1761,10 @@
       "pictures/J9VI85/J9VI85_right.png"
     ],
     "Multiple Choices": {
-      "A": "4.2.3.1 | threonine synthase",
-      "B": "4.2.1.9 | dihydroxy-acid dehydratase",
-      "C": "4.2.3.5 | threonine synthase",
-      "D": "4.2.1.183 | etheroleic acid synthase"
+      "A": "dihydroxy-acid dehydratase",
+      "B": "etheroleic acid synthase",
+      "C": "threonine synthase",
+      "D": "phospholipase A2"
     }
   },
   {
@@ -1778,10 +1778,10 @@
       "pictures/Q9KJT3/Q9KJT3_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.7.11.1 | non-specific serine/threonine protein kinase",
-      "B": "2.7.11.11 | cAMP-dependent protein kinase",
-      "C": "2.7.13.3 | histidine kinase",
-      "D": "2.7.11.24 | histidine kinase"
+      "A": "mRNA 5'-phosphatase",
+      "B": "histidine kinase",
+      "C": "alcohol dehydrogenase",
+      "D": "DNA topoisomerase"
     }
   },
   {
@@ -1795,10 +1795,10 @@
       "pictures/A0A9E7S5E3/A0A9E7S5E3_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.3.1.322 | akuammiline synthase",
-      "B": "2.3.1.319 | 3,5-dioxohexanoate:acetyl-CoA acetone transferase",
-      "C": "2.3.1.312 | D-glutamate N-acetyltransferase",
-      "D": "2.3.1.193 | akuammiline synthase"
+      "A": "mRNA N6-methyladenine demethylase",
+      "B": "sterol 14alpha-demethylase",
+      "C": "beta-amyrin 28-monooxygenase",
+      "D": "akuammiline synthase"
     }
   },
   {
@@ -1812,10 +1812,10 @@
       "pictures/Q97U12/Q97U12_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.3.1.319 | 3,5-dioxohexanoate:acetyl-CoA acetone transferase",
-      "B": "2.3.1.322 | akuammiline synthase",
-      "C": "2.3.1.312 | tRNAMet cytidine acetyltransferase",
-      "D": "2.3.1.193 | tRNAMet cytidine acetyltransferase"
+      "A": "phenylalanine ammonia-lyase",
+      "B": "tRNAMet cytidine acetyltransferase",
+      "C": "ribonuclease III",
+      "D": "acid phosphatase"
     }
   },
   {
@@ -1829,10 +1829,10 @@
       "pictures/B1G5Y9/B1G5Y9_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.3.1.319 | 3,5-dioxohexanoate:acetyl-CoA acetone transferase",
-      "B": "2.3.1.322 | akuammiline synthase",
-      "C": "2.3.1.193 | tRNAMet cytidine acetyltransferase",
-      "D": "2.3.1.312 | 3,5-dioxohexanoate:acetyl-CoA acetone transferase"
+      "A": "apyrase",
+      "B": "3,5-dioxohexanoate:acetyl-CoA acetone transferase",
+      "C": "NAD+ synthase (glutamine-hydrolysing)",
+      "D": "N-acetyl-D-glutamate racemase"
     }
   },
   {
@@ -1846,10 +1846,10 @@
       "pictures/O24769/O24769_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.1.3.2 | acid phosphatase",
-      "B": "3.1.1.4 | phospholipase A2",
-      "C": "3.1.3.112 | 4'-phosphooxetanocin A phosphatase",
-      "D": "3.1.3.16 | 4'-phosphooxetanocin A phosphatase"
+      "A": "geissoschizine dehydrogenase",
+      "B": "4'-phosphooxetanocin A phosphatase",
+      "C": "indigoidine synthase",
+      "D": "tyramine N-methyltransferase"
     }
   },
   {
@@ -1863,10 +1863,10 @@
       "pictures/Q4J8R2/Q4J8R2_right.png"
     ],
     "Multiple Choices": {
-      "A": "4.2.99.18 | DNA-(apurinic or apyrimidinic site) lyase",
-      "B": "4.2.1.183 | etheroleic acid synthase",
-      "C": "4.2.3.5 | chorismate synthase",
-      "D": "4.2.3.1 | DNA-(apurinic or apyrimidinic site) lyase"
+      "A": "DNA-(apurinic or apyrimidinic site) lyase",
+      "B": "dihydroxy-acid dehydratase",
+      "C": "akuammiline synthase",
+      "D": "histidine kinase"
     }
   },
   {
@@ -1880,10 +1880,10 @@
       "pictures/A0A261GRE4/A0A261GRE4_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.14.18.1 | tyrosinase",
-      "B": "1.14.15.37 | luteothin monooxygenase",
-      "C": "1.14.15.9 | spheroidene monooxygenase",
-      "D": "1.14.19.80 | tyrosinase"
+      "A": "homoserine O-acetyltransferase",
+      "B": "cysteate synthase",
+      "C": "akuammiline synthase",
+      "D": "tyrosinase"
     }
   },
   {
@@ -1897,10 +1897,10 @@
       "pictures/Q2PAY3/Q2PAY3_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.7.11.24 | mitogen-activated protein kinase",
-      "B": "2.7.13.3 | histidine kinase",
-      "C": "2.7.11.1 | non-specific serine/threonine protein kinase",
-      "D": "2.7.11.11 | non-specific serine/threonine protein kinase"
+      "A": "non-reducing end alpha-L-arabinofuranosidase",
+      "B": "non-specific serine/threonine protein kinase",
+      "C": "dimethylamine monooxygenase",
+      "D": "vinorine hydroxylase"
     }
   },
   {
@@ -1914,10 +1914,10 @@
       "pictures/Q4J8R1/Q4J8R1_right.png"
     ],
     "Multiple Choices": {
-      "A": "5.6.2.4 | DNA 3'-5' helicase",
-      "B": "5.6.2.1 | DNA 3'-5' helicase",
-      "C": "5.6.1.1 | microtubule-severing ATPase",
-      "D": "5.4.99.14 | 4-carboxymethyl-4-methylbutenolide mutase"
+      "A": "[protein ADP-ribosylarginine] hydrolase",
+      "B": "DNA 3'-5' helicase",
+      "C": "DNA topoisomerase",
+      "D": "stachydrine N-demethylase"
     }
   },
   {
@@ -1931,10 +1931,10 @@
       "pictures/D2VS83/D2VS83_right.png"
     ],
     "Multiple Choices": {
-      "A": "5.4.99.14 | 4-carboxymethyl-4-methylbutenolide mutase",
-      "B": "5.6.2.1 | DNA topoisomerase",
-      "C": "5.6.1.1 | microtubule-severing ATPase",
-      "D": "5.6.2.4 | microtubule-severing ATPase"
+      "A": "microtubule-severing ATPase",
+      "B": "formaldehyde dehydrogenase",
+      "C": "1'-carboxy-chondrochloren decarboxylase",
+      "D": "mRNA N6-methyladenine demethylase"
     }
   },
   {
@@ -1948,10 +1948,10 @@
       "pictures/P0DY05/P0DY05_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.2.1.8 | endo-1,4-beta-xylanase",
-      "B": "3.2.1.183 | UDP-N-acetylglucosamine 2-epimerase (hydrolysing)",
-      "C": "3.2.1.20 | alpha-glucosidase",
-      "D": "3.2.1.18 | UDP-N-acetylglucosamine 2-epimerase (hydrolysing)"
+      "A": "UDP-N-acetylglucosamine 2-epimerase (hydrolysing)",
+      "B": "apyrase",
+      "C": "dihydroxy-acid dehydratase",
+      "D": "homoserine kinase"
     }
   },
   {
@@ -1965,10 +1965,10 @@
       "pictures/P0DXU7/P0DXU7_right.png"
     ],
     "Multiple Choices": {
-      "A": "6.3.5.1 | NAD+ synthase (glutamine-hydrolysing)",
-      "B": "6.3.2.35 | D-alanine-D-serine ligase",
-      "C": "7.6.2.2 | ABC-type xenobiotic transporter",
-      "D": "5.4.99.14 | ABC-type xenobiotic transporter"
+      "A": "amidophosphoribosyltransferase",
+      "B": "plant cystathionine gamma-synthase",
+      "C": "tyramine N-methyltransferase",
+      "D": "ABC-type xenobiotic transporter"
     }
   },
   {
@@ -1982,10 +1982,10 @@
       "pictures/G1X456/G1X456_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.7.11.24 | mitogen-activated protein kinase",
-      "B": "2.7.11.1 | cAMP-dependent protein kinase",
-      "C": "2.7.11.11 | cAMP-dependent protein kinase",
-      "D": "2.7.13.3 | histidine kinase"
+      "A": "cAMP-dependent protein kinase",
+      "B": "akuammiline synthase",
+      "C": "FMN reductase (NADPH)",
+      "D": "DNA 3'-5' helicase"
     }
   },
   {
@@ -1999,10 +1999,10 @@
       "pictures/M4MEY9/M4MEY9_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.2.1.105 | 3alpha(S)-strictosidine beta-glucosidase",
-      "B": "3.2.1.8 | endo-1,4-beta-xylanase",
-      "C": "3.2.1.20 | alpha-glucosidase",
-      "D": "3.2.1.18 | endo-1,4-beta-xylanase"
+      "A": "threonine synthase",
+      "B": "endo-1,4-beta-xylanase",
+      "C": "N-acylneuraminate cytidylyltransferase",
+      "D": "selenate reductase (quinol)"
     }
   },
   {
@@ -2016,10 +2016,10 @@
       "pictures/Q95P65/Q95P65_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.4.21.62 | Subtilisin",
-      "B": "3.5.2.6 | beta-lactamase",
-      "C": "3.6.1.5 | apyrase",
-      "D": "3.6.1.74 | apyrase"
+      "A": "mannose-6-phosphate isomerase",
+      "B": "apyrase",
+      "C": "DNA topoisomerase",
+      "D": "xylan 1,4-beta-xylosidase"
     }
   },
   {
@@ -2033,10 +2033,10 @@
       "pictures/A0A8I6GJ95/A0A8I6GJ95_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.1.1.336 | UDP-N-acetyl-D-mannosamine dehydrogenase",
-      "B": "1.1.1.122 | D-threo-aldose 1-dehydrogenase",
-      "C": "1.1.1.1 | alcohol dehydrogenase",
-      "D": "1.1.1.195 | D-threo-aldose 1-dehydrogenase"
+      "A": "beta-amyrin synthase",
+      "B": "peptidyl-tRNA hydrolase",
+      "C": "D-threo-aldose 1-dehydrogenase",
+      "D": "UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)"
     }
   },
   {
@@ -2050,10 +2050,10 @@
       "pictures/D8S724/D8S724_right.png"
     ],
     "Multiple Choices": {
-      "A": "4.2.1.70 | pseudouridylate synthase",
-      "B": "4.2.1.18 | methylglutaconyl-CoA hydratase",
-      "C": "4.2.1.9 | etheroleic acid synthase",
-      "D": "4.2.1.183 | etheroleic acid synthase"
+      "A": "1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase",
+      "B": "apyrase",
+      "C": "etheroleic acid synthase",
+      "D": "betaine-homocysteine S-methyltransferase"
     }
   },
   {
@@ -2067,10 +2067,10 @@
       "pictures/J9VU26/J9VU26_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.7.1.52 | homoserine kinase",
-      "B": "2.7.2.4 | aspartate kinase",
-      "C": "2.7.1.39 | homoserine kinase",
-      "D": "2.7.2.3 | phosphoglycerate kinase"
+      "A": "homoserine kinase",
+      "B": "UDP-N-acetyl-alpha-D-glucosaminouronate 4-epimerase",
+      "C": "alcohol dehydrogenase",
+      "D": "tRNA (guanosine18-2'-O)-methyltransferase"
     }
   },
   {
@@ -2084,10 +2084,10 @@
       "pictures/A0A5B9GBF0/A0A5B9GBF0_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.7.11.1 | non-specific serine/threonine protein kinase",
-      "B": "2.7.11.24 | mitogen-activated protein kinase",
-      "C": "2.7.11.11 | mitogen-activated protein kinase",
-      "D": "2.7.13.3 | histidine kinase"
+      "A": "mitogen-activated protein kinase",
+      "B": "lipid A phosphoethanolamine transferase",
+      "C": "phenylalanine ammonia-lyase",
+      "D": "4-carboxymethyl-4-methylbutenolide mutase"
     }
   },
   {
@@ -2101,10 +2101,10 @@
       "pictures/V9TT49/V9TT49_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.2.1.18 | exo-alpha-sialidase",
-      "B": "3.2.1.20 | alpha-glucosidase",
-      "C": "3.2.1.37 | xylan 1,4-beta-xylosidase",
-      "D": "3.2.1.8 | xylan 1,4-beta-xylosidase"
+      "A": "xylan 1,4-beta-xylosidase",
+      "B": "holo-[acyl-carrier-protein] synthase",
+      "C": "FMN reductase (NADPH)",
+      "D": "demethylluteothin O-methyltransferase"
     }
   },
   {
@@ -2118,10 +2118,10 @@
       "pictures/M4MLB5/M4MLB5_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.2.1.18 | exo-alpha-sialidase",
-      "B": "3.2.1.20 | alpha-glucosidase",
-      "C": "3.2.1.105 | endo-1,4-beta-xylanase",
-      "D": "3.2.1.8 | endo-1,4-beta-xylanase"
+      "A": "endo-1,4-beta-xylanase",
+      "B": "2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase",
+      "C": "DELTA3,5-DELTA2,4-dienoyl-CoA isomerase",
+      "D": "1'-carboxy-chondrochloren decarboxylase"
     }
   },
   {
@@ -2135,10 +2135,10 @@
       "pictures/A0A9P5CQV5/A0A9P5CQV5_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.1.1.395 | 7'-O-demethylcephaeline methyltransferase",
-      "B": "2.1.1.393 | ajmaline N-methyltransferase",
-      "C": "2.1.1.27 | mRNA m6A methyltransferase",
-      "D": "2.1.1.348 | mRNA m6A methyltransferase"
+      "A": "aliphatic sulfonate oxidoreductase",
+      "B": "mRNA m6A methyltransferase",
+      "C": "amidophosphoribosyltransferase",
+      "D": "3-O-beta-D-glucopyranosyl-beta-D-glucuronide phosphorylase"
     }
   },
   {
@@ -2152,10 +2152,10 @@
       "pictures/G2X8M4/G2X8M4_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.2.1.20 | alpha-glucosidase",
-      "B": "3.2.1.18 | exo-alpha-sialidase",
-      "C": "3.2.1.105 | endo-1,4-beta-xylanase",
-      "D": "3.2.1.8 | endo-1,4-beta-xylanase"
+      "A": "endo-1,4-beta-xylanase",
+      "B": "phosphopantothenoylcysteine decarboxylase",
+      "C": "threonine synthase",
+      "D": "4'-phosphooxetanocin A phosphatase"
     }
   },
   {
@@ -2169,10 +2169,10 @@
       "pictures/Q2PAY2/Q2PAY2_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.7.13.3 | histidine kinase",
-      "B": "2.7.11.1 | non-specific serine/threonine protein kinase",
-      "C": "2.7.11.11 | cAMP-dependent protein kinase",
-      "D": "2.7.11.24 | non-specific serine/threonine protein kinase"
+      "A": "cysteine desulfurase",
+      "B": "mitogen-activated protein kinase",
+      "C": "holo-[acyl-carrier-protein] synthase",
+      "D": "non-specific serine/threonine protein kinase"
     }
   },
   {
@@ -2186,10 +2186,10 @@
       "pictures/Q980C5/Q980C5_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.3.1.312 | D-glutamate N-acetyltransferase",
-      "B": "2.3.1.319 | 3,5-dioxohexanoate:acetyl-CoA acetone transferase",
-      "C": "2.3.1.322 | tRNAMet cytidine acetyltransferase",
-      "D": "2.3.1.193 | tRNAMet cytidine acetyltransferase"
+      "A": "(19E)-geissoschizine oxidase",
+      "B": "1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase",
+      "C": "beta-amyrin 28-monooxygenase",
+      "D": "tRNAMet cytidine acetyltransferase"
     }
   },
   {
@@ -2203,10 +2203,10 @@
       "pictures/O24770/O24770_right.png"
     ],
     "Multiple Choices": {
-      "A": "5.3.99.13 | 4'-phospho-dehydrooxetanocin synthase",
-      "B": "5.3.1.8 | mannose-6-phosphate isomerase",
-      "C": "5.3.1.16 | 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase",
-      "D": "5.3.3.21 | 4'-phospho-dehydrooxetanocin synthase"
+      "A": "D-glutamate N-acetyltransferase",
+      "B": "spectinabilin polyketide synthase system",
+      "C": "4'-phospho-dehydrooxetanocin synthase",
+      "D": "1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase"
     }
   },
   {
@@ -2220,10 +2220,10 @@
       "pictures/A0A0U4AHM6/A0A0U4AHM6_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.1.1.122 | D-threo-aldose 1-dehydrogenase",
-      "B": "1.1.1.195 | cinnamyl-alcohol dehydrogenase",
-      "C": "1.1.1.1 | alcohol dehydrogenase",
-      "D": "1.1.1.336 | cinnamyl-alcohol dehydrogenase"
+      "A": "alpha-glucosidase",
+      "B": "cinnamyl-alcohol dehydrogenase",
+      "C": "protein-serine/threonine phosphatase",
+      "D": "exo-alpha-sialidase"
     }
   },
   {
@@ -2237,10 +2237,10 @@
       "pictures/A7GKX7/A7GKX7_right.png"
     ],
     "Multiple Choices": {
-      "A": "4.1.1.36 | phosphopantothenoylcysteine decarboxylase",
-      "B": "4.1.1.128 | UDP-N-acetyl-alpha-D-glucosaminuronate decarboxylase",
-      "C": "4.1.1.25 | tyrosine decarboxylase",
-      "D": "4.1.1.129 | UDP-N-acetyl-alpha-D-glucosaminuronate decarboxylase"
+      "A": "microtubule-severing ATPase",
+      "B": "sterol 14alpha-demethylase",
+      "C": "UDP-N-acetyl-alpha-D-glucosaminuronate decarboxylase",
+      "D": "ferric-chelate reductase [NAD(P)H]"
     }
   },
   {
@@ -2254,10 +2254,10 @@
       "pictures/Q0CPG9/Q0CPG9_right.png"
     ],
     "Multiple Choices": {
-      "A": "4.2.1.18 | methylglutaconyl-CoA hydratase",
-      "B": "4.2.1.9 | dihydroxy-acid dehydratase",
-      "C": "4.2.1.70 | pseudouridylate synthase",
-      "D": "4.2.1.183 | dihydroxy-acid dehydratase"
+      "A": "fucokinase",
+      "B": "akuammiline synthase",
+      "C": "dihydroxy-acid dehydratase",
+      "D": "7'-O-demethylcephaeline methyltransferase"
     }
   },
   {
@@ -2271,10 +2271,10 @@
       "pictures/P0DXJ1/P0DXJ1_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.3.1.36 | geissoschizine dehydrogenase",
-      "B": "1.3.1.73 | geissoschizine dehydrogenase",
-      "C": "1.2.1.46 | formaldehyde dehydrogenase",
-      "D": "1.2.1.11 | aspartate-semialdehyde dehydrogenase"
+      "A": "beta-amyrin 28-monooxygenase",
+      "B": "apyrase",
+      "C": "geissoschizine dehydrogenase",
+      "D": "ajmaline N-methyltransferase"
     }
   },
   {
@@ -2288,10 +2288,10 @@
       "pictures/A4XXY9/A4XXY9_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.14.14.126 | beta-amyrin 28-monooxygenase",
-      "B": "1.14.14.154 | sterol 14alpha-demethylase",
-      "C": "1.14.13.238 | dimethylamine monooxygenase",
-      "D": "1.14.13.247 | dimethylamine monooxygenase"
+      "A": "tRNA (guanosine18-2'-O)-methyltransferase",
+      "B": "lipid A phosphoethanolamine transferase",
+      "C": "dimethylamine monooxygenase",
+      "D": "phospholipase A2"
     }
   },
   {
@@ -2305,10 +2305,10 @@
       "pictures/J9VIY8/J9VIY8_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.3.1.322 | akuammiline synthase",
-      "B": "2.3.1.319 | 3,5-dioxohexanoate:acetyl-CoA acetone transferase",
-      "C": "2.3.1.31 | homoserine O-acetyltransferase",
-      "D": "2.3.1.193 | homoserine O-acetyltransferase"
+      "A": "1'-carboxy-chondrochloren decarboxylase",
+      "B": "phospholipase A2",
+      "C": "homoserine O-acetyltransferase",
+      "D": "cysteine desulfurase"
     }
   },
   {
@@ -2322,10 +2322,10 @@
       "pictures/Q9VJ31/Q9VJ31_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.1.1.5 | betaine-homocysteine S-methyltransferase",
-      "B": "2.1.1.395 | 7'-O-demethylcephaeline methyltransferase",
-      "C": "2.1.1.393 | ajmaline N-methyltransferase",
-      "D": "2.1.1.27 | betaine-homocysteine S-methyltransferase"
+      "A": "lipid A phosphoethanolamine transferase",
+      "B": "7'-O-demethylcephaeline methyltransferase",
+      "C": "NAD+ synthase (glutamine-hydrolysing)",
+      "D": "betaine-homocysteine S-methyltransferase"
     }
   },
   {
@@ -2339,10 +2339,10 @@
       "pictures/A0A5J5T2N2/A0A5J5T2N2_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.7.11.1 | non-specific serine/threonine protein kinase",
-      "B": "2.7.11.11 | cAMP-dependent protein kinase",
-      "C": "2.7.13.3 | histidine kinase",
-      "D": "2.7.11.24 | non-specific serine/threonine protein kinase"
+      "A": "7'-O-demethylcephaeline methyltransferase",
+      "B": "spheroidene monooxygenase",
+      "C": "non-specific serine/threonine protein kinase",
+      "D": "2-(S-pantetheinyl)-carbapenam-3-carboxylate methyltransferase"
     }
   },
   {
@@ -2356,10 +2356,10 @@
       "pictures/G2X4G1/G2X4G1_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.2.1.18 | exo-alpha-sialidase",
-      "B": "3.2.1.8 | endo-1,4-beta-xylanase",
-      "C": "3.2.1.20 | alpha-glucosidase",
-      "D": "3.2.1.105 | endo-1,4-beta-xylanase"
+      "A": "alpha-glucosidase",
+      "B": "Subtilisin",
+      "C": "beta-amyrin synthase",
+      "D": "endo-1,4-beta-xylanase"
     }
   },
   {
@@ -2373,10 +2373,10 @@
       "pictures/P0DY42/P0DY42_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.1.1.80 | acetylajmaline esterase",
-      "B": "3.1.1.4 | phospholipase A2",
-      "C": "3.1.1.29 | phospholipase A2",
-      "D": "3.1.3.16 | protein-serine/threonine phosphatase"
+      "A": "formaldehyde dehydrogenase",
+      "B": "phospholipase A2",
+      "C": "aliphatic sulfonate oxidoreductase",
+      "D": "cinnamyl-alcohol dehydrogenase"
     }
   },
   {
@@ -2390,10 +2390,10 @@
       "pictures/Q4WXF4/Q4WXF4_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.1.1.27 | tyramine N-methyltransferase",
-      "B": "2.1.1.393 | ajmaline N-methyltransferase",
-      "C": "2.1.2.1 | glycine hydroxymethyltransferase",
-      "D": "2.1.1.395 | glycine hydroxymethyltransferase"
+      "A": "beta-lactamase",
+      "B": "tRNA (guanosine18-2'-O)-methyltransferase",
+      "C": "cysteate synthase",
+      "D": "glycine hydroxymethyltransferase"
     }
   },
   {
@@ -2407,10 +2407,10 @@
       "pictures/A0A223HDI5/A0A223HDI5_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.1.1.138 | mannitol 2-dehydrogenase (NADP+)",
-      "B": "1.1.1.195 | cinnamyl-alcohol dehydrogenase",
-      "C": "1.1.1.336 | UDP-N-acetyl-D-mannosamine dehydrogenase",
-      "D": "1.1.1.122 | mannitol 2-dehydrogenase (NADP+)"
+      "A": "pseudouridylate synthase",
+      "B": "(19E)-geissoschizine oxidase",
+      "C": "beta-1,2-glucosyltransferase",
+      "D": "mannitol 2-dehydrogenase (NADP+)"
     }
   },
   {
@@ -2424,10 +2424,10 @@
       "pictures/S8GI44/S8GI44_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.7.11.11 | cAMP-dependent protein kinase",
-      "B": "2.7.13.3 | histidine kinase",
-      "C": "2.7.11.1 | non-specific serine/threonine protein kinase",
-      "D": "2.7.11.24 | non-specific serine/threonine protein kinase"
+      "A": "dimethylamine monooxygenase",
+      "B": "DNA-(apurinic or apyrimidinic site) lyase",
+      "C": "non-specific serine/threonine protein kinase",
+      "D": "protein-serine/threonine phosphatase"
     }
   },
   {
@@ -2441,10 +2441,10 @@
       "pictures/Q83YH3/Q83YH3_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.14.14.126 | beta-amyrin 28-monooxygenase",
-      "B": "1.14.14.154 | sterol 14alpha-demethylase",
-      "C": "1.14.15.37 | spheroidene monooxygenase",
-      "D": "1.14.15.9 | spheroidene monooxygenase"
+      "A": "mannitol-1-phosphate 5-dehydrogenase",
+      "B": "tyrosinase",
+      "C": "spheroidene monooxygenase",
+      "D": "nicotinamide phosphoribosyltransferase"
     }
   },
   {
@@ -2458,10 +2458,10 @@
       "pictures/Q70KH6/Q70KH6_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.14.15.9 | luteothin monooxygenase",
-      "B": "1.14.15.37 | luteothin monooxygenase",
-      "C": "1.14.14.126 | beta-amyrin 28-monooxygenase",
-      "D": "1.14.14.154 | sterol 14alpha-demethylase"
+      "A": "D-threo-aldose 1-dehydrogenase",
+      "B": "RING-type E3 ubiquitin transferase",
+      "C": "L-arabinitol 4-dehydrogenase",
+      "D": "luteothin monooxygenase"
     }
   },
   {
@@ -2475,10 +2475,10 @@
       "pictures/E7FL15/E7FL15_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.1.1.353 | demethylluteothin O-methyltransferase",
-      "B": "2.1.1.395 | 7'-O-demethylcephaeline methyltransferase",
-      "C": "2.1.1.27 | tyramine N-methyltransferase",
-      "D": "2.1.1.393 | 7'-O-demethylcephaeline methyltransferase"
+      "A": "stachydrine N-demethylase",
+      "B": "holo-[acyl-carrier-protein] synthase",
+      "C": "7'-O-demethylcephaeline methyltransferase",
+      "D": "4-carboxymethyl-4-methylbutenolide mutase"
     }
   },
   {
@@ -2492,10 +2492,10 @@
       "pictures/J9VS37/J9VS37_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.7.2.4 | aspartate kinase",
-      "B": "2.7.1.52 | fucokinase",
-      "C": "2.7.2.3 | aspartate kinase",
-      "D": "2.7.1.39 | homoserine kinase"
+      "A": "aspartate kinase",
+      "B": "beta-amyrin 28-monooxygenase",
+      "C": "UDP-N-acetylglucosamine 6-dehydrogenase",
+      "D": "beta-glucuronidase"
     }
   },
   {
@@ -2509,10 +2509,10 @@
       "pictures/P0DXN8/P0DXN8_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.2.2.27 | uracil-DNA glycosylase",
-      "B": "3.2.2.19 | NAD+ glycohydrolase",
-      "C": "3.2.1.8 | endo-1,4-beta-xylanase",
-      "D": "3.2.2.5 | NAD+ glycohydrolase"
+      "A": "NAD+ glycohydrolase",
+      "B": "thioredoxin-dependent peroxiredoxin",
+      "C": "4-carboxymethyl-4-methylbutenolide mutase",
+      "D": "UDP-N-acetyl-alpha-D-glucosaminuronate decarboxylase"
     }
   },
   {
@@ -2526,10 +2526,10 @@
       "pictures/W1QET1/W1QET1_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.7.7.80 | molybdopterin-synthase adenylyltransferase",
-      "B": "2.7.7.1 | nicotinamide-nucleotide adenylyltransferase",
-      "C": "2.7.7.88 | GDP polyribonucleotidyltransferase",
-      "D": "2.7.7.43 | molybdopterin-synthase adenylyltransferase"
+      "A": "molybdopterin-synthase adenylyltransferase",
+      "B": "microtubule-severing ATPase",
+      "C": "holo-[acyl-carrier-protein] synthase",
+      "D": "Togavirin"
     }
   },
   {
@@ -2543,10 +2543,10 @@
       "pictures/A0A2T1AE85/A0A2T1AE85_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.3.1.312 | D-glutamate N-acetyltransferase",
-      "B": "2.3.1.322 | akuammiline synthase",
-      "C": "2.3.1.319 | 3,5-dioxohexanoate:acetyl-CoA acetone transferase",
-      "D": "2.3.1.193 | D-glutamate N-acetyltransferase"
+      "A": "N-acylneuraminate cytidylyltransferase",
+      "B": "4-carboxymethyl-4-methylbutenolide mutase",
+      "C": "D-glutamate N-acetyltransferase",
+      "D": "NAD+ synthase (glutamine-hydrolysing)"
     }
   },
   {
@@ -2560,10 +2560,10 @@
       "pictures/Q6LXX7/Q6LXX7_right.png"
     ],
     "Multiple Choices": {
-      "A": "4.3.1.12 | ornithine cyclodeaminase",
-      "B": "4.2.3.1 | threonine synthase",
-      "C": "4.3.1.24 | ornithine cyclodeaminase",
-      "D": "4.3.3.9 | indigoidine synthase"
+      "A": "D-threo-aldose 1-dehydrogenase",
+      "B": "methionine gamma-lyase",
+      "C": "cysteine desulfurase",
+      "D": "ornithine cyclodeaminase"
     }
   },
   {
@@ -2577,10 +2577,10 @@
       "pictures/B4ER97/B4ER97_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.3.1.319 | 3,5-dioxohexanoate:acetyl-CoA acetone transferase",
-      "B": "2.3.1.290 | spectinabilin polyketide synthase system",
-      "C": "2.3.1.322 | akuammiline synthase",
-      "D": "2.3.1.193 | spectinabilin polyketide synthase system"
+      "A": "N-acetylneuraminate synthase",
+      "B": "homoserine kinase",
+      "C": "Subtilisin",
+      "D": "spectinabilin polyketide synthase system"
     }
   },
   {
@@ -2594,10 +2594,10 @@
       "pictures/Q9W3Y1/Q9W3Y1_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.7.11.24 | mitogen-activated protein kinase",
-      "B": "2.7.11.11 | non-specific serine/threonine protein kinase",
-      "C": "2.7.11.1 | non-specific serine/threonine protein kinase",
-      "D": "2.7.13.3 | histidine kinase"
+      "A": "xylan 1,4-beta-xylosidase",
+      "B": "UDP-N-acetyl-alpha-D-glucosaminouronate 4-epimerase",
+      "C": "cinnamyl-alcohol dehydrogenase",
+      "D": "non-specific serine/threonine protein kinase"
     }
   },
   {
@@ -2611,10 +2611,10 @@
       "pictures/A0A075D654/A0A075D654_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.1.1.27 | tyramine N-methyltransferase",
-      "B": "2.1.1.393 | ajmaline N-methyltransferase",
-      "C": "2.1.1.395 | 7'-O-demethylcephaeline methyltransferase",
-      "D": "2.1.1.353 | ajmaline N-methyltransferase"
+      "A": "endo-1,4-beta-xylanase",
+      "B": "sterol 14alpha-demethylase",
+      "C": "4-carboxymethyl-4-methylbutenolide mutase",
+      "D": "ajmaline N-methyltransferase"
     }
   },
   {
@@ -2628,10 +2628,10 @@
       "pictures/A0A9E7S518/A0A9E7S518_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.1.1.195 | cinnamyl-alcohol dehydrogenase",
-      "B": "1.1.1.336 | UDP-N-acetyl-D-mannosamine dehydrogenase",
-      "C": "1.1.1.122 | rhazimal reductase",
-      "D": "1.1.1.440 | rhazimal reductase"
+      "A": "phospholipase A2",
+      "B": "ribonuclease III",
+      "C": "rhazimal reductase",
+      "D": "indigoidine synthase"
     }
   },
   {
@@ -2645,10 +2645,10 @@
       "pictures/Q388N2/Q388N2_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.1.3.112 | 4'-phosphooxetanocin A phosphatase",
-      "B": "3.1.1.4 | phospholipase A2",
-      "C": "3.1.3.16 | protein-serine/threonine phosphatase",
-      "D": "3.1.3.2 | protein-serine/threonine phosphatase"
+      "A": "mannose-6-phosphate isomerase",
+      "B": "molybdopterin-synthase adenylyltransferase",
+      "C": "cysteate synthase",
+      "D": "protein-serine/threonine phosphatase"
     }
   },
   {
@@ -2662,10 +2662,10 @@
       "pictures/P0DXG8/P0DXG8_right.png"
     ],
     "Multiple Choices": {
-      "A": "6.3.5.1 | NAD+ synthase (glutamine-hydrolysing)",
-      "B": "6.3.2.35 | D-alanine-D-serine ligase",
-      "C": "5.4.99.14 | ABC-type xenobiotic transporter",
-      "D": "7.6.2.2 | ABC-type xenobiotic transporter"
+      "A": "3,5-dioxohexanoate:acetyl-CoA acetone transferase",
+      "B": "ABC-type xenobiotic transporter",
+      "C": "ornithine cyclodeaminase",
+      "D": "3-O-beta-D-glucopyranosyl-beta-D-glucuronide phosphorylase"
     }
   },
   {
@@ -2679,10 +2679,10 @@
       "pictures/P0DXJ5/P0DXJ5_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.1.3.16 | protein-serine/threonine phosphatase",
-      "B": "3.1.1.4 | phospholipase A2",
-      "C": "3.1.1.80 | acetylajmaline esterase",
-      "D": "3.1.1.29 | acetylajmaline esterase"
+      "A": "L-arabinitol 4-dehydrogenase",
+      "B": "acetylajmaline esterase",
+      "C": "NAD+ synthase (glutamine-hydrolysing)",
+      "D": "colneleate synthase"
     }
   },
   {
@@ -2696,10 +2696,10 @@
       "pictures/A0A0R0H9T5/A0A0R0H9T5_right.png"
     ],
     "Multiple Choices": {
-      "A": "5.1.3.45 | UDP-N-acetyl-alpha-D-glucosaminouronate 4-epimerase",
-      "B": "5.3.1.8 | mannose-6-phosphate isomerase",
-      "C": "5.2.1.8 | peptidylprolyl isomerase",
-      "D": "5.3.1.16 | peptidylprolyl isomerase"
+      "A": "peptidylprolyl isomerase",
+      "B": "rhazimal reductase",
+      "C": "molybdopterin-synthase adenylyltransferase",
+      "D": "D-alanine-D-serine ligase"
     }
   },
   {
@@ -2713,10 +2713,10 @@
       "pictures/Q2WE96/Q2WE96_right.png"
     ],
     "Multiple Choices": {
-      "A": "4.2.1.18 | methylglutaconyl-CoA hydratase",
-      "B": "4.2.1.70 | pseudouridylate synthase",
-      "C": "4.2.1.121 | colneleate synthase",
-      "D": "4.2.1.9 | colneleate synthase"
+      "A": "mannitol 2-dehydrogenase (NADP+)",
+      "B": "4-carboxymethyl-4-methylbutenolide mutase",
+      "C": "colneleate synthase",
+      "D": "mRNA 5'-phosphatase"
     }
   },
   {
@@ -2730,10 +2730,10 @@
       "pictures/A7GKX6/A7GKX6_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.1.1.122 | D-threo-aldose 1-dehydrogenase",
-      "B": "1.1.1.195 | cinnamyl-alcohol dehydrogenase",
-      "C": "1.1.1.136 | UDP-N-acetylglucosamine 6-dehydrogenase",
-      "D": "1.1.1.336 | UDP-N-acetylglucosamine 6-dehydrogenase"
+      "A": "L-tyrosine reductase",
+      "B": "UDP-N-acetylglucosamine 6-dehydrogenase",
+      "C": "7'-O-demethylcephaeline methyltransferase",
+      "D": "vinorine hydroxylase"
     }
   },
   {
@@ -2747,10 +2747,10 @@
       "pictures/C0HMD9/C0HMD9_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.5.1.56 | N-acetylneuraminate synthase",
-      "B": "2.5.1.76 | cysteate synthase",
-      "C": "2.5.1.160 | dihydropteroate synthase",
-      "D": "2.5.1.15 | dihydropteroate synthase"
+      "A": "ribonuclease III",
+      "B": "mannose-6-phosphate isomerase",
+      "C": "xylan 1,4-beta-xylosidase",
+      "D": "dihydropteroate synthase"
     }
   },
   {
@@ -2764,10 +2764,10 @@
       "pictures/Q9WAF5/Q9WAF5_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.2.1.18 | exo-alpha-sialidase",
-      "B": "3.2.1.8 | endo-1,4-beta-xylanase",
-      "C": "3.2.1.105 | 3alpha(S)-strictosidine beta-glucosidase",
-      "D": "3.2.1.20 | exo-alpha-sialidase"
+      "A": "exo-alpha-sialidase",
+      "B": "phenylalanine ammonia-lyase",
+      "C": "D-threo-aldose 1-dehydrogenase",
+      "D": "stachydrine N-demethylase"
     }
   },
   {
@@ -2781,10 +2781,10 @@
       "pictures/Q58T34/Q58T34_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.7.2.4 | aspartate kinase",
-      "B": "2.7.1.39 | fucokinase",
-      "C": "2.7.2.3 | phosphoglycerate kinase",
-      "D": "2.7.1.52 | fucokinase"
+      "A": "NAD+ glycohydrolase",
+      "B": "lipid A phosphoethanolamine transferase",
+      "C": "fucokinase",
+      "D": "3alpha(S)-strictosidine beta-glucosidase"
     }
   },
   {
@@ -2798,10 +2798,10 @@
       "pictures/Q8KN66/Q8KN66_right.png"
     ],
     "Multiple Choices": {
-      "A": "5.1.3.14 | UDP-N-acetyl-alpha-D-glucosaminouronate 4-epimerase",
-      "B": "5.1.3.45 | UDP-N-acetyl-alpha-D-glucosaminouronate 4-epimerase",
-      "C": "5.1.1.25 | N-acetyl-D-glutamate racemase",
-      "D": "5.1.1.24 | histidine racemase"
+      "A": "UDP-N-acetyl-alpha-D-glucosaminouronate 4-epimerase",
+      "B": "N-acetyl-D-glutamate racemase",
+      "C": "glycine hydroxymethyltransferase",
+      "D": "[histone H3]-dimethyl-L-lysine9 demethylase"
     }
   },
   {
@@ -2815,10 +2815,10 @@
       "pictures/Q9VJ90/Q9VJ90_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.7.11.1 | non-specific serine/threonine protein kinase",
-      "B": "2.7.11.11 | cAMP-dependent protein kinase",
-      "C": "2.7.11.24 | non-specific serine/threonine protein kinase",
-      "D": "2.7.13.3 | histidine kinase"
+      "A": "mannitol 2-dehydrogenase (NADP+)",
+      "B": "geissoschizine dehydrogenase",
+      "C": "non-specific serine/threonine protein kinase",
+      "D": "homoserine kinase"
     }
   },
   {
@@ -2832,10 +2832,10 @@
       "pictures/A0A7U2MMF3/A0A7U2MMF3_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.1.1.122 | D-threo-aldose 1-dehydrogenase",
-      "B": "1.1.1.336 | UDP-N-acetyl-D-mannosamine dehydrogenase",
-      "C": "1.1.1.1 | alcohol dehydrogenase",
-      "D": "1.1.1.195 | alcohol dehydrogenase"
+      "A": "colneleate synthase",
+      "B": "alcohol dehydrogenase",
+      "C": "non-specific serine/threonine protein kinase",
+      "D": "indigoidine synthase"
     }
   },
   {
@@ -2849,10 +2849,10 @@
       "pictures/P0DXJ3/P0DXJ3_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.6.5.2 | NAD(P)H dehydrogenase (quinone)",
-      "B": "1.5.1.38 | vomilenine reductase",
-      "C": "1.5.1.32 | vomilenine reductase",
-      "D": "1.3.1.36 | geissoschizine dehydrogenase"
+      "A": "vomilenine reductase",
+      "B": "tyrosinase",
+      "C": "tyrosine decarboxylase",
+      "D": "fucokinase"
     }
   },
   {
@@ -2866,10 +2866,10 @@
       "pictures/A0A384JXV5/A0A384JXV5_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.2.1.20 | alpha-glucosidase",
-      "B": "3.2.1.18 | exo-alpha-sialidase",
-      "C": "3.2.1.8 | endo-1,4-beta-xylanase",
-      "D": "3.2.1.105 | endo-1,4-beta-xylanase"
+      "A": "[histone H3]-dimethyl-L-lysine9 demethylase",
+      "B": "molybdopterin-synthase adenylyltransferase",
+      "C": "endo-1,4-beta-xylanase",
+      "D": "3,5-dioxohexanoate:acetyl-CoA acetone transferase"
     }
   },
   {
@@ -2883,10 +2883,10 @@
       "pictures/A0A0G4KL96/A0A0G4KL96_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.2.1.8 | endo-1,4-beta-xylanase",
-      "B": "3.2.1.18 | exo-alpha-sialidase",
-      "C": "3.2.1.20 | alpha-glucosidase",
-      "D": "3.2.1.105 | endo-1,4-beta-xylanase"
+      "A": "endo-1,4-beta-xylanase",
+      "B": "UDP-N-acetyl-D-mannosamine dehydrogenase",
+      "C": "4'-phosphooxetanocin A phosphatase",
+      "D": "peptidyl-tRNA hydrolase"
     }
   },
   {
@@ -2900,10 +2900,10 @@
       "pictures/A0A0F6B281/A0A0F6B281_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.1.1.80 | acetylajmaline esterase",
-      "B": "3.1.1.4 | peptidyl-tRNA hydrolase",
-      "C": "3.1.1.29 | peptidyl-tRNA hydrolase",
-      "D": "3.1.3.16 | protein-serine/threonine phosphatase"
+      "A": "RING-type E3 ubiquitin transferase",
+      "B": "peptidyl-tRNA hydrolase",
+      "C": "L-arabinitol 4-dehydrogenase",
+      "D": "glycine hydroxymethyltransferase"
     }
   },
   {
@@ -2917,10 +2917,10 @@
       "pictures/Q5KPK7/Q5KPK7_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.2.1.46 | formaldehyde dehydrogenase",
-      "B": "1.2.1.11 | aspartate-semialdehyde dehydrogenase",
-      "C": "1.2.1.101 | aspartate-semialdehyde dehydrogenase",
-      "D": "1.1.1.336 | UDP-N-acetyl-D-mannosamine dehydrogenase"
+      "A": "UDP-N-acetyl-D-mannosamine dehydrogenase",
+      "B": "aspartate-semialdehyde dehydrogenase",
+      "C": "mannose-6-phosphate isomerase",
+      "D": "thioredoxin-disulfide reductase (NADPH)"
     }
   },
   {
@@ -2934,10 +2934,10 @@
       "pictures/A0A0F6NRE2/A0A0F6NRE2_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.2.1.8 | endo-1,4-beta-xylanase",
-      "B": "3.2.1.55 | non-reducing end alpha-L-arabinofuranosidase",
-      "C": "3.2.1.20 | alpha-glucosidase",
-      "D": "3.2.1.18 | non-reducing end alpha-L-arabinofuranosidase"
+      "A": "non-reducing end alpha-L-arabinofuranosidase",
+      "B": "molybdopterin-synthase adenylyltransferase",
+      "C": "tyramine N-methyltransferase",
+      "D": "UDP-N-acetylglucosamine 2-epimerase (hydrolysing)"
     }
   },
   {
@@ -2951,10 +2951,10 @@
       "pictures/Q47720/Q47720_right.png"
     ],
     "Multiple Choices": {
-      "A": "6.3.5.1 | D-alanine-D-serine ligase",
-      "B": "6.3.2.35 | D-alanine-D-serine ligase",
-      "C": "5.6.2.4 | DNA 3'-5' helicase",
-      "D": "5.4.99.14 | 4-carboxymethyl-4-methylbutenolide mutase"
+      "A": "alcohol dehydrogenase",
+      "B": "beta-glucuronidase",
+      "C": "D-alanine-D-serine ligase",
+      "D": "1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase"
     }
   },
   {
@@ -2968,10 +2968,10 @@
       "pictures/E7FHH1/E7FHH1_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.97.1.14 | aliphatic sulfonate oxidoreductase",
-      "B": "1.97.1.13 | aliphatic sulfonate oxidoreductase",
-      "C": "1.14.15.9 | spheroidene monooxygenase",
-      "D": "1.16.1.10 | ferric-chelate reductase [NAD(P)H]"
+      "A": "aliphatic sulfonate oxidoreductase",
+      "B": "homoserine kinase",
+      "C": "ferric-chelate reductase [NAD(P)H]",
+      "D": "cinnamyl-alcohol dehydrogenase"
     }
   },
   {
@@ -2985,10 +2985,10 @@
       "pictures/P0DXV0/P0DXV0_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.14.14.104 | vinorine hydroxylase",
-      "B": "1.14.14.126 | beta-amyrin 28-monooxygenase",
-      "C": "1.14.14.154 | sterol 14alpha-demethylase",
-      "D": "1.14.14.187 | sterol 14alpha-demethylase"
+      "A": "UDP-N-acetylglucosamine 2-epimerase (hydrolysing)",
+      "B": "peptidylprolyl isomerase",
+      "C": "sterol 14alpha-demethylase",
+      "D": "protein-serine/threonine phosphatase"
     }
   },
   {
@@ -3002,10 +3002,10 @@
       "pictures/A0A9E7S4M4/A0A9E7S4M4_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.14.15.9 | spheroidene monooxygenase",
-      "B": "1.14.15.37 | luteothin monooxygenase",
-      "C": "1.14.19.80 | (19E)-geissoschizine oxidase",
-      "D": "1.14.18.1 | (19E)-geissoschizine oxidase"
+      "A": "(19E)-geissoschizine oxidase",
+      "B": "tyramine N-methyltransferase",
+      "C": "tyrosine decarboxylase",
+      "D": "DNA topoisomerase"
     }
   },
   {
@@ -3019,10 +3019,10 @@
       "pictures/G4NCP4/G4NCP4_right.png"
     ],
     "Multiple Choices": {
-      "A": "5.3.1.16 | 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase",
-      "B": "5.3.1.8 | mannose-6-phosphate isomerase",
-      "C": "5.3.1.9 | DELTA3,5-DELTA2,4-dienoyl-CoA isomerase",
-      "D": "5.3.3.21 | DELTA3,5-DELTA2,4-dienoyl-CoA isomerase"
+      "A": "ribonuclease III",
+      "B": "Togavirin",
+      "C": "phosphopantothenoylcysteine decarboxylase",
+      "D": "DELTA3,5-DELTA2,4-dienoyl-CoA isomerase"
     }
   },
   {
@@ -3036,10 +3036,10 @@
       "pictures/G0RT93/G0RT93_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.1.3.16 | protein-serine/threonine phosphatase",
-      "B": "3.1.3.2 | acid phosphatase",
-      "C": "3.1.3.112 | protein-serine/threonine phosphatase",
-      "D": "3.1.1.4 | phospholipase A2"
+      "A": "protein-serine/threonine phosphatase",
+      "B": "histidine racemase",
+      "C": "alpha-glucosidase",
+      "D": "NAD+ glycohydrolase"
     }
   },
   {
@@ -3053,10 +3053,10 @@
       "pictures/A0AAW1NEA3/A0AAW1NEA3_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.14.14.187 | rhazimal synthase",
-      "B": "1.14.14.104 | vinorine hydroxylase",
-      "C": "1.14.14.154 | beta-amyrin 28-monooxygenase",
-      "D": "1.14.14.126 | beta-amyrin 28-monooxygenase"
+      "A": "phosphoglycerate kinase",
+      "B": "beta-amyrin 28-monooxygenase",
+      "C": "DELTA3,5-DELTA2,4-dienoyl-CoA isomerase",
+      "D": "7'-O-demethylcephaeline methyltransferase"
     }
   },
   {
@@ -3070,10 +3070,10 @@
       "pictures/Q9RHD7/Q9RHD7_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.1.1.336 | UDP-N-acetyl-D-mannosamine dehydrogenase",
-      "B": "1.1.1.136 | UDP-N-acetylglucosamine 6-dehydrogenase",
-      "C": "1.1.1.195 | cinnamyl-alcohol dehydrogenase",
-      "D": "1.1.1.122 | UDP-N-acetylglucosamine 6-dehydrogenase"
+      "A": "UDP-N-acetylglucosamine 6-dehydrogenase",
+      "B": "apyrase",
+      "C": "beta-glucuronidase",
+      "D": "rhazimal reductase"
     }
   },
   {
@@ -3087,10 +3087,10 @@
       "pictures/A0A509AM03/A0A509AM03_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.5.2.6 | beta-lactamase",
-      "B": "3.4.21.90 | Subtilisin",
-      "C": "3.4.21.62 | Subtilisin",
-      "D": "3.4.13.22 | D-Ala-D-Ala dipeptidase"
+      "A": "homoserine kinase",
+      "B": "UDP-N-acetyl-alpha-D-glucosaminouronate 4-epimerase",
+      "C": "NAD+ glycohydrolase",
+      "D": "Subtilisin"
     }
   },
   {
@@ -3104,10 +3104,10 @@
       "pictures/E6Y8B9/E6Y8B9_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.4.13.22 | D-Ala-D-Ala dipeptidase",
-      "B": "3.5.2.6 | beta-lactamase",
-      "C": "3.4.21.62 | Subtilisin",
-      "D": "3.4.21.90 | Subtilisin"
+      "A": "cinnamyl-alcohol dehydrogenase",
+      "B": "aliphatic sulfonate oxidoreductase",
+      "C": "Subtilisin",
+      "D": "phospholipase A2"
     }
   },
   {
@@ -3121,10 +3121,10 @@
       "pictures/A0A0L1JEW4/A0A0L1JEW4_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.14.14.126 | beta-amyrin 28-monooxygenase",
-      "B": "1.14.14.104 | vinorine hydroxylase",
-      "C": "1.14.14.187 | sterol 14alpha-demethylase",
-      "D": "1.14.14.154 | sterol 14alpha-demethylase"
+      "A": "alcohol dehydrogenase",
+      "B": "sterol 14alpha-demethylase",
+      "C": "Togavirin",
+      "D": "[histone H3]-dimethyl-L-lysine9 demethylase"
     }
   },
   {
@@ -3138,10 +3138,10 @@
       "pictures/A0A089LCJ8/A0A089LCJ8_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.2.1.8 | endo-1,4-beta-xylanase",
-      "B": "3.2.1.20 | alpha-glucosidase",
-      "C": "3.2.1.18 | beta-glucuronidase",
-      "D": "3.2.1.31 | beta-glucuronidase"
+      "A": "D-alanine-D-serine ligase",
+      "B": "spheroidene monooxygenase",
+      "C": "beta-glucuronidase",
+      "D": "phosphoglycerate kinase"
     }
   },
   {
@@ -3155,10 +3155,10 @@
       "pictures/A0A482PJY4/A0A482PJY4_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.3.1.322 | akuammiline synthase",
-      "B": "2.3.2.27 | RING-type E3 ubiquitin transferase",
-      "C": "2.3.1.193 | tRNAMet cytidine acetyltransferase",
-      "D": "2.3.1.319 | RING-type E3 ubiquitin transferase"
+      "A": "D-alanine-D-serine ligase",
+      "B": "thioredoxin-dependent peroxiredoxin",
+      "C": "methylglutaconyl-CoA hydratase",
+      "D": "RING-type E3 ubiquitin transferase"
     }
   },
   {
@@ -3172,10 +3172,10 @@
       "pictures/Q97ZJ8/Q97ZJ8_right.png"
     ],
     "Multiple Choices": {
-      "A": "5.4.99.14 | 4-carboxymethyl-4-methylbutenolide mutase",
-      "B": "5.6.2.4 | DNA topoisomerase",
-      "C": "5.6.1.1 | microtubule-severing ATPase",
-      "D": "5.6.2.1 | DNA topoisomerase"
+      "A": "akuammiline synthase",
+      "B": "ajmaline N-methyltransferase",
+      "C": "3alpha(S)-strictosidine beta-glucosidase",
+      "D": "DNA topoisomerase"
     }
   },
   {
@@ -3189,10 +3189,10 @@
       "pictures/Q8RI81/Q8RI81_right.png"
     ],
     "Multiple Choices": {
-      "A": "5.1.1.24 | histidine racemase",
-      "B": "5.1.3.45 | UDP-N-acetyl-alpha-D-glucosaminouronate 4-epimerase",
-      "C": "5.1.3.14 | UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)",
-      "D": "5.1.1.25 | histidine racemase"
+      "A": "sterol 14alpha-demethylase",
+      "B": "histidine racemase",
+      "C": "UDP-N-acetyl-alpha-D-glucosaminouronate 4-epimerase",
+      "D": "tyrosinase"
     }
   },
   {
@@ -3206,10 +3206,10 @@
       "pictures/A0A080WMA9/A0A080WMA9_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.2.1.46 | formaldehyde dehydrogenase",
-      "B": "1.2.1.101 | aspartate-semialdehyde dehydrogenase",
-      "C": "1.1.1.336 | UDP-N-acetyl-D-mannosamine dehydrogenase",
-      "D": "1.2.1.11 | aspartate-semialdehyde dehydrogenase"
+      "A": "aspartate-semialdehyde dehydrogenase",
+      "B": "4'-phosphooxetanocin A phosphatase",
+      "C": "D-alanine-D-serine ligase",
+      "D": "4'-phospho-dehydrooxetanocin synthase"
     }
   },
   {
@@ -3223,10 +3223,10 @@
       "pictures/A0A223GB52/A0A223GB52_right.png"
     ],
     "Multiple Choices": {
-      "A": "2.7.8.41 | cardiolipin synthase (CMP-forming)",
-      "B": "2.7.8.43 | holo-[acyl-carrier-protein] synthase",
-      "C": "2.7.7.43 | N-acylneuraminate cytidylyltransferase",
-      "D": "2.7.8.7 | holo-[acyl-carrier-protein] synthase"
+      "A": "UDP-N-acetylglucosamine 2-epimerase (hydrolysing)",
+      "B": "holo-[acyl-carrier-protein] synthase",
+      "C": "ferric-chelate reductase [NAD(P)H]",
+      "D": "3-O-beta-D-glucopyranosyl-beta-D-glucuronide phosphorylase"
     }
   },
   {
@@ -3240,10 +3240,10 @@
       "pictures/Q9W4J9/Q9W4J9_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.2.2.5 | NAD+ glycohydrolase",
-      "B": "3.2.1.8 | endo-1,4-beta-xylanase",
-      "C": "3.2.2.19 | [protein ADP-ribosylarginine] hydrolase",
-      "D": "3.2.2.27 | [protein ADP-ribosylarginine] hydrolase"
+      "A": "[protein ADP-ribosylarginine] hydrolase",
+      "B": "thioredoxin-dependent peroxiredoxin",
+      "C": "cysteine desulfurase",
+      "D": "beta-amyrin 28-monooxygenase"
     }
   },
   {
@@ -3257,10 +3257,10 @@
       "pictures/G2X5X8/G2X5X8_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.2.1.18 | exo-alpha-sialidase",
-      "B": "3.2.1.105 | 3alpha(S)-strictosidine beta-glucosidase",
-      "C": "3.2.1.8 | endo-1,4-beta-xylanase",
-      "D": "3.2.1.20 | endo-1,4-beta-xylanase"
+      "A": "peptidylprolyl isomerase",
+      "B": "histidine kinase",
+      "C": "endo-1,4-beta-xylanase",
+      "D": "non-specific serine/threonine protein kinase"
     }
   },
   {
@@ -3274,10 +3274,10 @@
       "pictures/G4MZ21/G4MZ21_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.14.11.63 | peptidyl-lysine (3S)-dioxygenase",
-      "B": "1.14.11.53 | mRNA N6-methyladenine demethylase",
-      "C": "1.14.11.65 | [histone H3]-dimethyl-L-lysine9 demethylase",
-      "D": "1.14.11.73 | mRNA N6-methyladenine demethylase"
+      "A": "mRNA N6-methyladenine demethylase",
+      "B": "homoserine O-acetyltransferase",
+      "C": "holo-[acyl-carrier-protein] synthase",
+      "D": "D-threo-aldose 1-dehydrogenase"
     }
   },
   {
@@ -3291,10 +3291,10 @@
       "pictures/Q2U919/Q2U919_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.1.3.112 | 4'-phosphooxetanocin A phosphatase",
-      "B": "3.1.3.16 | protein-serine/threonine phosphatase",
-      "C": "3.1.1.4 | phospholipase A2",
-      "D": "3.1.3.2 | protein-serine/threonine phosphatase"
+      "A": "protein-serine/threonine phosphatase",
+      "B": "histidine kinase",
+      "C": "vomilenine reductase",
+      "D": "plant cystathionine gamma-synthase"
     }
   },
   {
@@ -3308,10 +3308,10 @@
       "pictures/M4MGK7/M4MGK7_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.2.1.8 | endo-1,4-beta-xylanase",
-      "B": "3.2.1.105 | 3alpha(S)-strictosidine beta-glucosidase",
-      "C": "3.2.1.18 | exo-alpha-sialidase",
-      "D": "3.2.1.20 | endo-1,4-beta-xylanase"
+      "A": "molybdopterin-synthase adenylyltransferase",
+      "B": "endo-1,4-beta-xylanase",
+      "C": "N-acylneuraminate cytidylyltransferase",
+      "D": "spheroidene monooxygenase"
     }
   },
   {
@@ -3325,10 +3325,10 @@
       "pictures/Q9VGV8/Q9VGV8_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.8.1.9 | thioredoxin-disulfide reductase (NADPH)",
-      "B": "1.5.1.38 | FMN reductase (NADPH)",
-      "C": "1.11.1.24 | thioredoxin-dependent peroxiredoxin",
-      "D": "1.6.5.2 | thioredoxin-disulfide reductase (NADPH)"
+      "A": "thioredoxin-disulfide reductase (NADPH)",
+      "B": "alcohol dehydrogenase",
+      "C": "Subtilisin",
+      "D": "apyrase"
     }
   },
   {
@@ -3342,10 +3342,10 @@
       "pictures/Q2TR58/Q2TR58_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.6.1.5 | apyrase",
-      "B": "3.5.2.6 | beta-lactamase",
-      "C": "3.4.21.62 | Subtilisin",
-      "D": "3.4.21.90 | beta-lactamase"
+      "A": "UDP-N-acetyl-alpha-D-glucosaminouronate 4-epimerase",
+      "B": "phosphopantothenoylcysteine decarboxylase",
+      "C": "mannose-6-phosphate isomerase",
+      "D": "beta-lactamase"
     }
   },
   {
@@ -3359,10 +3359,10 @@
       "pictures/Q5SC51/Q5SC51_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.2.1.20 | alpha-glucosidase",
-      "B": "3.2.1.105 | 3alpha(S)-strictosidine beta-glucosidase",
-      "C": "3.2.1.8 | exo-alpha-sialidase",
-      "D": "3.2.1.18 | exo-alpha-sialidase"
+      "A": "exo-alpha-sialidase",
+      "B": "thioredoxin-disulfide reductase (NADPH)",
+      "C": "D-glutamate N-acetyltransferase",
+      "D": "rhazimal synthase"
     }
   },
   {
@@ -3376,10 +3376,10 @@
       "pictures/A0A0A8X0K1/A0A0A8X0K1_right.png"
     ],
     "Multiple Choices": {
-      "A": "1.16.1.10 | ferric-chelate reductase [NAD(P)H]",
-      "B": "1.14.15.9 | spheroidene monooxygenase",
-      "C": "1.97.1.13 | selenate reductase (quinol)",
-      "D": "1.97.1.14 | selenate reductase (quinol)"
+      "A": "threonine synthase",
+      "B": "thioredoxin-dependent peroxiredoxin",
+      "C": "tyrosine decarboxylase",
+      "D": "selenate reductase (quinol)"
     }
   },
   {
@@ -3393,10 +3393,10 @@
       "pictures/B0XAA1/B0XAA1_right.png"
     ],
     "Multiple Choices": {
-      "A": "3.2.1.105 | 3alpha(S)-strictosidine beta-glucosidase",
-      "B": "3.2.1.8 | endo-1,4-beta-xylanase",
-      "C": "3.2.1.18 | alpha-glucosidase",
-      "D": "3.2.1.20 | alpha-glucosidase"
+      "A": "alpha-glucosidase",
+      "B": "non-specific serine/threonine protein kinase",
+      "C": "mannitol-1-phosphate 5-dehydrogenase",
+      "D": "homoserine kinase"
     }
   }
 ]

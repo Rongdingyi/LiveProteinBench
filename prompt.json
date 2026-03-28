@@ -15,6 +15,22 @@
     "task_name": "Enzyme Commission (EC) Number Prediction",
     "task_description": "is to predict the complete 4-digit Enzyme Commission (EC) number for a given protein. The EC number is a numerical classification that categorizes enzymes based on the chemical reactions they catalyze. You should select the most accurate EC number from the provided options based on the protein's sequence."
     },
+    {"task": "Enzyme_function",
+    "task_name": "Enzyme Function Prediction",
+    "task_description": "is to identify the most likely biochemical function of the protein from the provided multiple-choice options."
+    },
+    {"task": "EC50",
+    "task_name": "Half Maximal Effective Concentration (EC50) Prediction",
+    "task_description": "is to estimate the effective concentration category of a compound for the protein by choosing the most plausible EC50 value from the multiple-choice options."
+    },
+    {"task": "Kd",
+    "task_name": "Protein-Ligand Dissociation Constant (Kd) Prediction",
+    "task_description": "is to estimate the binding strength category of a protein-ligand interaction by selecting the most plausible dissociation constant (Kd) from the multiple-choice options."
+    },
+    {"task": "Ki",
+    "task_name": "Protein Inhibition Constant (Ki) Prediction",
+    "task_description": "is to estimate the inhibition strength of a protein-ligand interaction by selecting the most plausible inhibition constant (Ki) from the multiple-choice options."
+    },
     {"task": "catalytic_activity",
     "task_name": "Enzymatic Reaction Prediction",
     "task_description": "is to identify the specific chemical reaction catalyzed by a given enzyme. This involves understanding the enzyme's function based on its amino acid sequence and then selecting the correct transformation of substrates into products from a list of possible reactions."
