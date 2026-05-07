@@ -4,7 +4,7 @@ LiveProteinBench is a benchmark suite designed for evaluating Large Language Mod
 
 ## Introduction
 
-This repository provides an automated evaluation pipeline that leverages OpenAI-compatible APIs (such as GPT-4, Claude 3.5 Sonnet, DeepSeek, etc.) to reason about and answer specific protein biology questions.
+This repository provides an automated evaluation pipeline that leverages OpenAI-compatible APIs to reason about and answer specific protein biology questions.
 
 It supports two evaluation modes through one unified runner:
 1.  **Multimodal Evaluation (`chat.py --use-images`)**: Analyzes both protein sequences and protein structure images.
@@ -19,7 +19,6 @@ The benchmark covers a wide range of biological prediction tasks (defined in `pr
 -   **Active Site Prediction**: Identifying key amino acid residues in the enzyme active site.
 -   **EC Number Prediction**: Predicting the Enzyme Commission (EC) number.
 -   **Enzyme Function Prediction**: Predicting the most likely biochemical function of a protein.
--   **EC50 / Kd / Ki Prediction**: Predicting activity or binding-strength related categories from multiple-choice options.
 -   **Catalytic Activity**: Identifying the specific chemical reaction catalyzed by an enzyme.
 -   **Motif Position Prediction**: Identifying and locating conserved sequence motifs.
 -   **Pathway Prediction**: Predicting the metabolic or signaling pathway of a protein.
