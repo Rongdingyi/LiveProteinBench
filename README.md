@@ -18,7 +18,6 @@ The benchmark covers a wide range of biological prediction tasks (defined in `pr
 -   **Transmembrane Region Prediction**: Predicting protein transmembrane domains.
 -   **Active Site Prediction**: Identifying key amino acid residues in the enzyme active site.
 -   **EC Number Prediction**: Predicting the Enzyme Commission (EC) number.
--   **Enzyme Function Prediction**: Predicting the most likely biochemical function of a protein.
 -   **Catalytic Activity**: Identifying the specific chemical reaction catalyzed by an enzyme.
 -   **Motif Position Prediction**: Identifying and locating conserved sequence motifs.
 -   **Pathway Prediction**: Predicting the metabolic or signaling pathway of a protein.
@@ -35,7 +34,6 @@ LiveProteinBench/
 ├── prompt.json               # Task definitions and prompt templates
 └── dataset/                  # Original dataset files
     ├── generate_images.py    # Generate structure images for the dataset
-    ├── origin_data/          # CSV data for each task
     └── QA/                   # Question data for each task
 
 ```
